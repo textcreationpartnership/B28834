@@ -1,0 +1,1438 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new Jerusalem the perfection of beauty, the joy of the whole earth described in the booke of the Revelation ; illustrated in sundry points according to the spirituall sense that devout minds may receive increase of light and consolation ; in a sermon composed for the learned Society of Astrologers at their generall meeting, Aug. 14, anno 1651.</title>
+            <author>Reeve, Edmund, d. 1660.</author>
+         </titleStmt>
+         <extent>Approx. 102KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28834</idno><idno type="EEBO-CITATION">17205136</idno>
+  <idno type="VID">206372</idno>
+  <idno type="EEBO-PROQUEST">2240876601</idno>
+  
+            <idno type="STC">Wing R668</idno>
+            <idno type="OCLC">17205136</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28834)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206372)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1621:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new Jerusalem the perfection of beauty, the joy of the whole earth described in the booke of the Revelation ; illustrated in sundry points according to the spirituall sense that devout minds may receive increase of light and consolation ; in a sermon composed for the learned Society of Astrologers at their generall meeting, Aug. 14, anno 1651.</title>
+                  <author>Reeve, Edmund, d. 1660.</author>
+               </titleStmt>
+               <extent>10, [26] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for Nath. Brooks ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLII [1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Introduction signed: E.R.</note>
+                  <note>Attributed to Reeve by Wing and NUC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Revelation XXI, 2 --  Sermons.</term>
+               <term type="topical_term">Astrology --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206372:1"/>
+            <p>THE NEW JERUSALEM: THE PERFECTION OF BEAUTY: The joy of the whole earth.</p>
+            <p>
+               <hi>DESCRIBED</hi> In the Booke of the REVELATION; <hi>ILLƲSTRATED</hi> In sundry Points, according to the Spirituall sense; That devout minds may receive increase of light and consolation.</p>
+            <p>IN A SERMON <hi>COMPOSED</hi> For the Learned Society of <hi>Astrologers,</hi> At their generall Meeting, <hi>Aug.</hi> 14. <hi>Anno</hi> 1651.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 87.3.</hi>
+               </bibl>
+               <lg>
+                  <l>Glorious things are spoken of thee, O Citie of God.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Dieu Rudimentis Linguae Persicae:</hi>
+                  </l>
+                  <l>Arcana Dei declarare, res quaedam est laudabilis.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>:<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J.G.</hi> for <hi>Nath: Brooks,</hi> at the Angel in <hi>Cornhill. MDCLII.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:206372:2"/>
+            <pb facs="tcp:206372:2"/>
+            <head>To the Learned Society of Artists, or Students in <hi>Astrologie.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T may seeme unto some unproper, that this Me<g ref="char:EOLhyphen"/>ditation concerning the New <hi>Jerusalem,</hi> being the highest matter in Christian Divinity, is de<g ref="char:EOLhyphen"/>dicated unto you, against whose Profession some Divines have inveighed. But if what followeth, be duly considered, it may appeare otherwise. <hi>Wigelius</hi> in that his excellent Treatise of <hi>Astrologie Theologized,</hi> saith: <hi>Astrologie is Philosophy it selfe, or it is the whole light of Nature, from whence ariseth the universall Naturall wisdom, or a solid, sincere, and exquisite knowledge of Na<g ref="char:EOLhyphen"/>turall things: which light of Nature is twofold, externall and internall: Externall in the Macrocosme, internall in the Microcosme.</hi> True Astrologie therefore being so noble a Science, the Sincere Professors and Students thereof are worthy of much honour. And whereas it is objected, That it is an Art to be rejected, because vanities are crept thereinto, may not by the same reason the Studie of sa<g ref="char:EOLhyphen"/>cred Theologie bee omitted, seeing that not a few errours
+<pb facs="tcp:206372:3"/> have entred into Bookes of the same? The holy Prophet <hi>David</hi> saith: The workes of the Lord are great, sought out of all them, that have pleasure thererin. His worke is honourable and glorious: and his righteousnesse en<g ref="char:EOLhyphen"/>dureth for ever. He hath made His wonderfull workes to be remembred. <hi>Psal.</hi> 111.3, 4.5. Moreover the God of heaven hath vouchsafed a speciall respect unto the well-minded Students in the Starres, in that Hee made some such the first publishers of the Birth of His Son the Lord <hi>Jesus Christ.</hi> Of whom S. <hi>Basil</hi> writing on the Nativity of Christ, among other things delivereth, that they <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, were addicted to the ob<g ref="char:EOLhyphen"/>serving of Sublime things (matters in the Heaven.) And so <hi>Munster</hi> testifieth likewise,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Edition S. <hi>Matthew</hi> Hebrew.</note> where he writeth: <hi>Hi ma<g ref="char:EOLhyphen"/>gi nostri fuerunt praecipui siderum contemplatores, quorum Dominus misertus novam condidit stellam, quae ipsos ad Christum perduceret.</hi> Now as yee are conversant in consi<g ref="char:EOLhyphen"/>dering the misterie of the Starres, for to understand what the Eternall God (blessed for ever) signifieth and worketh in and by them, that yee may make the right use thereof unto the wellfare of Mankinde; so are you to have in due consideration the chiefe of all Starres, the Spirituall Star, whereof the holy Gospel maketh mention, the<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uk. 1.78, 79.</note>
+               <hi>Day-spring</hi> from on high, which hath visited us, to give light unto them that sit in darknesse, and in the shadow of death, and to guide our feete into the way of peace: the<note n="*" place="margin">Pet. 1.19.</note>
+               <hi>Day-starre</hi> which ariseth within our hearts: the<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v. 2.26, 28.</note>
+               <hi>Morning-starre,</hi> which is given to the overcomers, which keepe <hi>Christs</hi> workes unto the end, the which is the Lord <hi>Jesus Christ</hi> according to His eternall Divine Nature. Unto the knowledge of whose<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tim. 3.16.</note> great mysterie, this present Medi<g ref="char:EOLhyphen"/>tation (how meane soever) may be furthersome unto you.
+<pb facs="tcp:206372:3"/> The Counsell given in the booke of <hi>Iob</hi> is considerable hereunto and ever memorable, namely,<note n="e" place="margin">Job 22.21, 22 See the marg. 2 <hi>John</hi> 7. signi<g ref="char:EOLhyphen"/>fieth, we should minde Christs Spirituall com<g ref="char:EOLhyphen"/>ming into us. So the <hi>Greeke</hi> Text intima<g ref="char:EOLhyphen"/>teth. And no<g ref="char:EOLhyphen"/>tice is taken by <hi>Occumenius,</hi> that whereas <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is of the <hi>present</hi> tense, therefore more is meant than the first comming onely. And that such as understand not <hi>Latine,</hi> may have some knowledge in the <hi>Originall</hi> Greeke, we have set forth in <hi>English</hi> an <hi>Intro<g ref="char:EOLhyphen"/>duction</hi> much helpfull thereunto.</note> Acquaint now thy selfe with God, and be at peace: thereby good shall come unto thee. Receive, I pray thee, the Law from His mouth, and lay up his words in thine heart. Whereas the study of true Christianity being neglected, ill is ones estate, although he hath much other Learning: as the A<g ref="char:EOLhyphen"/>postle declareth, saying: though I have the gift of Pro<g ref="char:EOLhyphen"/>phecie, and understand all mysteries, and all knowledge, and though I have al faith, so that I could remove Moun<g ref="char:EOLhyphen"/>taines, and have not Charity, I am Nothing. 1 <hi>Cor.</hi> 13.2.</p>
+            <closer>
+               <dateline>
+                  <hi>From my Lodging in the</hi> Old-Baily.</dateline>
+               <signed>Yours to be commanded in whatsoever God approveth, <hi>E. R.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:206372:4"/>
+            <head>To the unpartiall Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Discourse on the Spirituall <hi>New Jerusalem,</hi> being a matter above the reach of meere<note n="a" place="margin">1 Cor. 2.14.</note> natural understanding, will unto some seeme a<note n="b" place="margin">Act. 17.18, 19, 20.</note> strange doctrine, like as did the preaching of <hi>JESUS</hi> &amp; the Resurrection, unto certaine Philosophers at <hi>Athens.</hi> Unto some others fearing God it will seeme marvellous, for that they have not<note n="c" place="margin">Acts 19.2. M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 4.16. Joh. 3.4, 5, 7, 9, 10.</note> heard of any such thing to be attained in this life. And therefore it is necessary to demonstrate out of the holy Scriptures, That there is such a Spirituall Being now en<g ref="char:EOLhyphen"/>joyable. It is said in<note n="d" place="margin">Isa. 60.1, 2. Eph. 5.14.</note>
+               <hi>Isaiah,</hi> Arise, be enlightned, for thy light commeth, and the glory of the Lord is risen upon thee. For behold, the darknesse shall cover the earth, and grosse darknesse the people, but the Lord shall arise upon thee, and His glory shall be seene upon thee. <hi>Christ</hi> said unto His Dis<g ref="char:EOLhyphen"/>ciples,<note n="e" place="margin">Joh. 14 16, 17, 18.</note> The Spirit of truth the world cannot receive, because it seeth Him not, neither knoweth Him: but ye know Him, for he dwelleth with you, and shall be in you. Now the true peo<g ref="char:EOLhyphen"/>ple of God will like the noble<note n="f" place="margin">Act. 17.11. 1 Joh. 4.1. 1 Thes. 5.20, 21.</note>
+               <hi>Bereans,</hi> receive the Word with all readinesse of mind, and search the Scriptures daily, whether what is published, be according unto them, or no. It was said to the Church of<note n="g" place="margin">Rev 3.12.</note>
+               <hi>Philadelphia,</hi> I will write upon the Overcommer, the name of the Citie of my God, which is the new <hi>Jerusalem,</hi> which commeth downe out of heaven from my God, Whence it is manifest, that at that time such a Citie was inheritable. To the<note n="h" place="margin">G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l 4.25, 26. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>of the Duall number, noting</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wo Jerusa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ems.</note>
+               <hi>Galatians</hi> the Apostle menti<g ref="char:EOLhyphen"/>oneth two <hi>Jerusalems,</hi> and saith, But <hi>Jerusalem,</hi> which is a<g ref="char:EOLhyphen"/>bove,
+<pb facs="tcp:206372:4"/> is free, which is the mother of us all. It is<note n="i" place="margin">Heb 12.22.</note> expresly sig<g ref="char:EOLhyphen"/>nified, that some of the <hi>Hebrewes</hi> unto whom S. <hi>Paul</hi> wrote, were then come unto the heavenly <hi>Jerusalem.</hi> And what the said City is, it is not unworthy of consideration, what is de<g ref="char:EOLhyphen"/>livered in<note n="k" place="margin">Esd. 8.52, 53, 54.</note>
+               <hi>Esdras,</hi> where it is said, Unto you is Paradise opened, the tree of life is planted, the time to come is prepa<g ref="char:EOLhyphen"/>red, plenteousnesse is made ready, a city is builded, and rest is allowed, yea perfect goodnesse and wisdome, &amp;c. and in the end are shewed the treasures of immortality. In the which<note n="l" place="margin">2 Esd. 2.10. Melchisedech <hi>had it in him mystically,</hi> Heb. 7.2. Psal. 76.2.</note> Booke <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is written, I will give my people the kingdome of <hi>Jerusa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em.</hi> The which appeareth to be the kingdome so often promi<g ref="char:EOLhyphen"/>sed elsewhere, which S. <hi>Paul</hi> saith is<note n="m" place="margin">Rom. 14.17.</note> righteousnesse, and<note n="*" place="margin">
+                  <hi>Jerusalem</hi> is observed to sig<g ref="char:EOLhyphen"/>nifie the Vision of Peace or Per<g ref="char:EOLhyphen"/>fection.</note> peace, and joy in the holy Ghost. Whereof <hi>Christ</hi> saith,<note n="n" place="margin">Luke 17.20.</note> Beheld, the kingdome of God is within you. The which is affirmed by<note n="o" place="margin">
+                  <hi>Psal. 145.13.</hi> See in the marg.</note>
+               <hi>David,</hi> to be in every age, and throughout all generations. The spirituall <hi>Jerusalem</hi> is the city, which the Patriarks insisted on,<note n="p" place="margin">Heb. 11.</note> whose builder and maker is God. The Apostle calleth it an<note n="q" place="margin">Ver. 16.</note> heavenly one. Whereas by <hi>Jeremiah</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is said,<note n="r" place="margin">Jer. 33.16.</note>
+               <hi>Jerusalem</hi> shall dwell safely, and this is the name wherewith she shall be called, <hi>The Lord our Righteousnesse;</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the said name<note n="s" place="margin">Jer. 23.5, 6.</note> elsewhere is a name of <hi>Christ,</hi> it giveth to be considered, That the new <hi>Jerusalem</hi> in the mysterie there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f is the Lord <hi>Jesus Christ,</hi> according to His eternall Divine Nature, in the greatest<note n="t" place="margin">1 Pet. 1.13.</note> revelation of Him in this present world. The which may also appeare, that after the Cities de<g ref="char:EOLhyphen"/>scription, the spirituall<note n="u" place="margin">Rev. 22.6, 7, 10, 12, 17, 20.</note> comming of Christ is so mentioned and desired, as if it were expressed, If thou <hi>Lord Jesus</hi> dost <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome spiritually into us, we have then within us the glorious City described unto us. For the Apostle saith,<note n="w" place="margin">Col. 3.11. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>Christ is The All things in all.</hi> Moreover, whereas the new <hi>Jerusa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em</hi> is set among the<note n="x" place="margin">Rev. 3.12. &amp; Rev. 21. &amp; Rev. 22.</note> last Blessings, which God vouchsafeth in this life, and the Scripture ascribeth the last Divine ope<g ref="char:EOLhyphen"/>rations to be from the holy<note n="y" place="margin">Act. 2.17. Joh. 16.7, 8.13.14.15.</note> Ghost, therefore this new <hi>Jeru<g ref="char:EOLhyphen"/>salem</hi>
+               <pb facs="tcp:206372:5"/> in the Spirituall sense thereof, is observed to bee also that which is called the holy Ghost, it being considered in the amplest measure thereof vouchsafed now unto the Saints. And that Really such<note n="z" place="margin">Rom. 8.15, 16 2 Cor. 1.21, 22 Gal. 4 6. Eph. 1.13, 14. Isa. 32.15. Ezech. 39.29. Rom. 55.</note> Spirit doth in Gods appoynted time come into the Spirit of his servants, very many Scripture: expresly testifie. So that it is manifest, that the Spirituall new <hi>Jerusalem</hi> is now attaineable through the grace of Al<g ref="char:EOLhyphen"/>mighty God. But whereas faith and hope are to be grounded upon the Word of God, therefore some Texts are to be men<g ref="char:EOLhyphen"/>tioned, testifying of a Reall Spirituall Being, that entreth into obedient Soules.<note n="a" place="margin">Rev. 3.20.</note> Behold, saith Christ, I stand at the doore and knocke: if any man heare my voice, and open the doore I will come in to him, and will sup with him, and he with mee. If any man love mee, he will keepe my words; and my Father will love him, and We will<note n="b" place="margin">Joh. 14.23.</note> come unto him, and make our abode with him. Hee also saith:<note n="c" place="margin">Verse 21.</note> I will ma<g ref="char:EOLhyphen"/>nifest my selfe unto him. It is often in the Gospell, that God the Father, Sonne, and holy Ghost, is now<note n="d" place="margin">Eph. 4 6. Colos. 1 27. 2 Cor. 13.5. 1 Cor. 3.16. &amp; 6.19.</note> in his Saints here on earth. It standeth written in the Margent of <hi>Psal. 68.18. Heb. in the Man.</hi> From whence (as from other Scriptures) we may perceive,<note n="*" place="margin">And in ver. 20. it is in the <hi>vulgar Latine, Portate Deuus in corpore vestro,</hi> Beare God in your body.</note> that if wee would know Christ so farre forth as we ought, we are not to rest in the bare knowledge of the sacred<note n="e" place="margin">2 Cor. 5 16. Joh. 16.7.</note> history of Him deli<g ref="char:EOLhyphen"/>vered by the Prophets, Evangelists and Apostles, but as Saint <hi>Paul</hi> saith, To know him, and the<note n="f" place="margin">Phil. 3.10.11. 2 Tim. 2.11, 12 1 Pet. 3.21. &amp; 4.1. Rom. 8 17.</note> power of his re<g ref="char:EOLhyphen"/>surrection, and the fellowship of his Sufferings, being made conformable unto his death, if by any meanes we may attaine unto the resurrection of the dead. We are to consider, how <hi>Christ</hi> is now<note n="g" place="margin">Gal. 1.16, 24</note> within us, and how Hee<note n="h" place="margin">Eph. 2.6.</note> may be in us, ac<g ref="char:EOLhyphen"/>cording as his Gospell teacheth. And as the Apostle prescri<g ref="char:EOLhyphen"/>beth,<note n="i" place="margin">2 Cor. 3.18.</note> that we all with open face, as in the glasse beholding the glory of the Lord, bee changed into the same Image, from glory to glory, even as by the Spirit of the Lord. It is
+<pb facs="tcp:206372:5"/> true Christianity zealously to consider, what Christ<note n="k" place="margin">Micah 6.8. Joh. 3.3.5.</note> requireth of us. His<note n="l" place="margin">Prov. 8.31.</note> delight is to be with the Children of men, to live,<note n="m" place="margin">2 Cor. 6.16. Gal. 2.20.</note> dwell, and walke in us,<note n="n" place="margin">1 Pet. 2.5. Heb. 3.6.</note> That wee be now His house,<note n="o" place="margin">Eph. 2.21, 22</note> Tem<g ref="char:EOLhyphen"/>ple,<note n="p" place="margin">Song 6.2.</note> Garden, That he may<note n="q" place="margin">Luke 19.27.</note> now administer His Kingdom written us, that wee<note n="r" place="margin">Psal. 37 4.</note> delight our selves in the Lord, and attaine to<note n="s" place="margin">Isa. 58.14.</note> ride upon the high places of the Earth, and be fed with the heritage of <hi>Jacob</hi> our Father, to<note n="t" place="margin">Rev. 2.17.</note> eate of his hid<g ref="char:EOLhyphen"/>den <hi>Manna,</hi> and to have the new name, which no man know<g ref="char:EOLhyphen"/>eth, saving hee that receiveth it: and to have<note n="v" place="margin">1 Joh. 1.2, 3, 4</note> fellowship with the <hi>Father,</hi> and with his Sonne <hi>Jesus Christ,</hi> that our joy may be full. And therefore the Apostle prayed for the <hi>E<g ref="char:EOLhyphen"/>phesians,</hi> that the eyes of their understanding being en<g ref="char:EOLhyphen"/>lightned, they might know what is the hope of His calling, and what the<note n="w" place="margin">Ephes. 1.16, 17, 18.</note> riches of the glory of his inheritance in the Saints is:<note n="x" place="margin">Ephes. 3.19.</note> and to know the love of <hi>Christ,</hi> which passeth knowledge, that they might be filled with all the fulnesse of God. To conclude, it appeareth to be no matter of indiffe<g ref="char:EOLhyphen"/>rence, whether we minde the new <hi>Jerusalem,</hi> or no.<note n="y" place="margin">Rev. 22.15. and 21.8.</note> The Revelation declareth the ill Spirituall estate of such, as ei<g ref="char:EOLhyphen"/>ther have it not within them, or are not preparing thereun<g ref="char:EOLhyphen"/>to. Yea, the<note n="z" place="margin">Rom. 8.14.9.13. Jer. 4.3, 4. Ezech. 18.31, 32 Rev. 3.16. Prov. 4.18, 19. 2 Thes. 1.8.10 Heb. 6.7, 8. Heb. 12.14.</note> word of the Lord, even in every booke of the same, witnesseth against all which are not endeavouring un<g ref="char:EOLhyphen"/>to the same effect. Wherefore let us strive to he minded like<note n="a" place="margin">Acts 13.22.</note>
+               <hi>David,</hi> said to be a man after Gods own heart, which shall fulfill all his will, who professed:<note n="b" place="margin">Psal. 137.5, 6.</note> If I forget thee, &amp; <hi>Jeru<g ref="char:EOLhyphen"/>salem,</hi> let my right hand forget her cunning. If I doe not re<g ref="char:EOLhyphen"/>member thee, let my tongue cleave to the roofe of my mouth, if I prefer not <hi>Jerusalem</hi> above my chiefe joy:<note n="c" place="margin">Isa. 66.11.13</note> That we may sucke and be satisfied with the breasts of her consolati<g ref="char:EOLhyphen"/>ons: that we may milke out, and be delighted with the a<g ref="char:EOLhyphen"/>bundance of her glory. And so be comforted in <hi>Jerusalem.</hi> For<note n="d" place="margin">Isa. 62.1.</note>
+               <hi>Zions</hi> sake let us not hold our peace, and for <hi>Jerusa<g ref="char:EOLhyphen"/>lems</hi> sake let us not rest, untill the righteousnesse thereof go
+<pb facs="tcp:206372:6"/> forth as brightnesse, and the salvation thereof as a lampe that burneth. Ye that make<note n="e" place="margin">Isa. 62.6, 7,</note> mention of the Lord (saith the Prophet) keepe not silence: and give him no rest, till he esta<g ref="char:EOLhyphen"/>blish, and till he make <hi>Jerusalem</hi> a praise in the earth. The Psalmist writeth:<note n="f" place="margin">Psal. 28.1, 5.</note> Blessed is every one that feareth the Lord, that walketh in his wayes. The Lord shall blesse thee out of Sion: and thou shalt see the<note n="g" place="margin">The <hi>Ara<g ref="char:EOLhyphen"/>bicke</hi> Text is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> good things. So the <hi>Greeke</hi> is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and the Vulgar Latine hath it <hi>bona.</hi>
+               </note> good of <hi>Jerusalem,</hi> all the dayes of thy life. Materiall or earthly <hi>Jerusalem</hi> hath bin brought into desolation, but spirituall <hi>Jerusalem</hi> endu<g ref="char:EOLhyphen"/>reth for ever. And therefore <hi>David</hi> chiefly intended the in<g ref="char:EOLhyphen"/>ward, in sundry mentionings of <hi>Jerusalem,</hi> whereof the out<g ref="char:EOLhyphen"/>ward was sometimes a figure or shadow. And whereas<note n="h" place="margin">Zeph 3.9. Zech. 14.9. 1 Cor. 1.10. Eph. 4.1, 2, 3, <hi>&amp;c.</hi>
+               </note> U<g ref="char:EOLhyphen"/>nity in the godly truth eternall, in that which all true Christian mindes do wish for to encrease among mankinde, the one onely way unto the said spirituall concord is by recei<g ref="char:EOLhyphen"/>ving into us more and more the new <hi>Jerusalem:</hi> for it is builded as a City, that is<note n="i" place="margin">Psal. 122.3.</note> compact together in it selfe, or that is at<note n="k" place="margin">So readeth <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ancient Translation.</note> unity in it selfe, as saith the holy Prophet. They which partaked thereof were of<note n="l" place="margin">Acts 4.32.</note> one heart and of one soule. Such could say,<note n="m" place="margin">2 Cor. 12.18</note> Walked we not in the same spirit? Walked we not in the same steps?<note n="*" place="margin">The godly Song set afore the beginning of the Psalm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in metre called <hi>Veni Creator,</hi> expresseth much the spiri<g ref="char:EOLhyphen"/>tuall <hi>Jerusalem.</hi>
+               </note> Now sundry of the good things of <hi>Jerusalem,</hi> which are Really enjoyed in this life, unto the unspeakeable comfort of holy and righteous mindes, this ensuing Treatise declareth out of the word of the Lord; the which blessings and benefits be imparted and multiplied un<g ref="char:EOLhyphen"/>to every devout one through <hi>Jesus Christ,</hi> Amen.</p>
+            <closer>
+               <signed>Edmund Reeve, <hi>Bachelor in Divinity, and Instruct<g ref="char:EOLhyphen"/>er in all the Tongues pertaining thereunto.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:206372:6"/>
+            <head>THE NEVV JERUSALEM. Illustrated in sundry points, according to the Spirituall sense, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>REV. 21.2.</hi>
+                  </bibl>
+                  <p>And I Iohn saw the holy citie, new Ierusalem, comming downe from God out of heaven, prepared as a Bride ador<g ref="char:EOLhyphen"/>ned for her husband.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Fore entrance be into the Interpretation of the Text,<note n="a" place="margin">
+                  <hi>As</hi> Augus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>See</hi> Polani S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tag. Theol. li <hi>7.</hi> cap. <hi>6.</hi>
+               </note> it is not impertinent to mention in briefe some of the different understandings of S. <hi>Johns</hi> Description of the New <hi>Jerusalem.</hi> It hath been conceived by many, that it is wholly concerning the state of the Blessed, departed out of the body. And it is true, that much of their blessednesse is therein signified. There are of Antiquity, which have understood some deliveries thereof, to be concerning <hi>Christs</hi> Church on earth: and it is<note n="b" place="margin">Tyconius, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mafius, &amp; H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> haec omnia <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hisce duobus pitibus refe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ad Ecclesia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> terris. Aef<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>us in Apoc.</note> re<g ref="char:EOLhyphen"/>lated, that certaine of them referred all things contained in the two last Chapters of the Revelation, unto the Church here on earth. Some of the<note n="c" place="margin">As Mr. <hi>Brightman,</hi> some other<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Moderne Writers have expounded the said Description, to be concerning the Christian Church, when as the Jewes are become one with the same. But most high understand<g ref="char:EOLhyphen"/>ing Authors in mysticall Divinity, deliver that there is a Spirituall sense thereof, on the which at this present it shall be altogether insisted. And that some places are so to be understood, it is expresly signified in the <hi>Revelation</hi> it selfe, where it is said,<note n="d" place="margin">Rev. 11. See Eph. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 32.</note>
+               <hi>And their dead bodies shall lie in the street of the great city,</hi> which <hi>Spiritually</hi> is called <hi>Sodom</hi> and <hi>Egypt,</hi> where also our Lord was Crucified. All Inter<g ref="char:EOLhyphen"/>preters
+<pb n="2" facs="tcp:206372:7"/> aswell <hi>Hebrew</hi> as <hi>Greeke</hi> and <hi>Latine,</hi> do acknowledge that many Scriptures have a mysticall sense. And they which teach that every place of Scripture hath a<note place="margin">Sunt qui uni<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cujusque loci <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cripturae Sacrae <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adruplicem <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nsum statuant, <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c.</hi> Polanus <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntag. Theol. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>1.</hi> cap. <hi>45. On Rev. 21.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Depen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce.</hi>
+               </note> forefold meaning, <hi>viz. Litterall, Allegoricall, Tropologicall,</hi> and <hi>Anagogicall,</hi> doe by Conse<g ref="char:EOLhyphen"/>quence grant, what is here affirmed. Yea Mr. <hi>Brightman</hi> teacheth likewise. For mentioning <hi>Ezechiels</hi> description of the Temple, <hi>
+                  <seg rend="sup">f</seg>
+               </hi> saith: <hi>The Prophet sheweth us that we are not to sticke in the shell of the lutter, but the kernell of the Spirit is to be searched and called forth.</hi>
+            </p>
+            <p>Now S. <hi>Iohn</hi> having in the Verse afore the Text, signified of his seeing of a new heaven and of a new earth, and that the first heaven and the first earth were passed away, and that there was no more sea, delivereth, what was then shewed unto him, namely, the said most glorious Cittie. The consideration of the which D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pendance may give us to understand, that if we would apprehend this heavenly Mysterie, and now partake of the Com<g ref="char:EOLhyphen"/>fort therof, we are to endeavour to be, as the Gospell prescribeth, where it saith,<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 5.17.</note> If any man be in Christ, hee is a new creature: old things are past away, behold, all things are become new. That saying in <hi>Esdras</hi> is considerable hereunto, <hi>viz.</hi>
+               <note n="*" place="margin">Esd. 10.53, 55.</note> I com<g ref="char:EOLhyphen"/>manded thee to goe into the field, where no foundation of any building was. For in the place wherin the Highest beginneth to shew His city, there can no mans building be able to stand. Hence is it that we are so often put in minde of making a<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ec. 18.31.</note> new heart and a new Spirit; and not to be conformed to this world:<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 4.22, 23,</note> but (as the Apostle saith) to be transformed by the renewing of our minde, that we may proove, what is that good, that acceptable and perfect will of God.</p>
+            <p>Also it being added, <hi>and there was no more sea,</hi> it teacheth that if wee would now enjoy the said heavenly blessing, then the spirituall sea within mankind, is to cease in us more and more. The Apostle saith,<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 12.2.</note> A meeke and a quiet spirit is a thing before God of great price. <hi>David</hi> saith:<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pet. 3.4.</note> The meeke will hee guide in judgement: and the meeke will hee teach his way. <hi>Sirach</hi> saith;<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sal 25.9. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>clus 4.19.</note> Many are in high place, and of renowne: but mysteries are revealed unto the meeke.<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King. 19.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. 65.1.</note> Also the Lord is in the still small Voice. And He is sometimes praised with the<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cording to Hebrew, <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce is praise <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hee.</hi> See <hi>Dor f on</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.5.13.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.28.12.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>83.3.</note> silence of His servants, namely, when as the same is Requisite or enjoyned unto them.</p>
+            <p>There are foure things to be considered in this portion of
+<pb n="3" facs="tcp:206372:7"/> Scriprure. 1. Why it is said, I <hi>John</hi> saw the holy Cittie, new <hi>Jerusalem.</hi> 2. Whether it is signified to come downe from God out of heaven. 3. Sundry particular matters of the said most glorious City. 4. The profit or use of all the same.</p>
+            <p n="1">1. Concerning the words, I <hi>Iohn</hi> saw the holy City, &amp;c. whereas the name <hi>Iohn</hi> is here expressed, and<note n="q" place="margin">Rev. 22.8. &amp; 1.1.4.9.</note> els where after some peculiar manner, and the name Signifieth the grace of the Lord, it teacheth, that they are to be Spirituall <hi>Iohns,</hi> gracious Persons, to whom God will now vouchsafe an insight into the said spirituall and heavenly<note n="r" place="margin">See Ezech. 40.2.</note> Frame. Yea this is testified in the very beginning of this booke, where it is written:<note n="s" place="margin">Rev. 1.1.</note> The Revelation of <hi>Jesus Christ</hi> which God gave unto them, to shew unto His servants things, which must shortly come to passe, and Hee sent and signified it by his Angel unto His servant <hi>Iohn.</hi> For none but<note n="t" place="margin">1 Cor. 2.14, 1</note> spirituall <hi>Iohns</hi> are capable of the mysteries of the Gospell, as <hi>Christ</hi> said unto His obedient Disciples,<note n="u" place="margin">Mat. 13.11. 1 Cor. 2.14. Refutation.</note> It is given unto you to know the Mysteries of the kingdom, but not unto others. And this point is confirmed by many Scriptures, as <hi>Mat.</hi> 11.25, 26, 27. <hi>Dan.</hi> 12.10. and 9.13. <hi>Psal.</hi> 25.12.14. and 1 <hi>Joh.</hi> 4.7.8. &amp;c.</p>
+            <p>The use whereof is first for Refutation, to declare that they are in errour, which suppose that they can comprehend the knowledge of this citty by their naturall wisdom and learning. The citty is said to have a wall great, and<note n="w" place="margin">Rev. 21.1</note> high: it is so high, as that none can looke over it or into it. The Apostle saith:<note n="x" place="margin">1 Cor. 2.9.2</note> Eye hath not seene, nor the eare heard, neither have entred into the heart of man, the things which God hath prepared for them that love Him. And there he writeth afore, That none of the<note n="y" place="margin">Verse 8.</note> Princes of this world knew the wisdom of God: for had they known it they would not have Crucified the Lord of glory. And then hee sheweth, how the knowledge of such things commeth, saying:<note n="z" place="margin">Verse 10.</note> But God hath reveal<g ref="char:EOLhyphen"/>ed them unto us by His Spirit, for the Spirit searcheth all things, yea the deep things of God. Experience in all ages teacheth, that they come not into the<note n="a" place="margin">Eph. 4.13.</note> unity of the Faith, and of the knowledge of the Son of God; but fall into some contrariety &amp; much diversity which proceed not, in<note n="b" place="margin">James 4.8. Jer. 4.14. 1 Joh. 3.3. Psal. 119 9. Reproofe.</note> purification, as the holy Gospell prescribeth.</p>
+            <p>The second use is for reproofe of such as strive not to bee Spirituall <hi>Iohns,</hi> to be endued with the<note n="c" place="margin">Heb. 13.9.</note> grace of the Lord, and with universall Christian<note n="d" place="margin">1 Pet. 2.9. Margent. 2 Pet. 1.2. Phil. 4.8. Psal 119.6.</note> vertues, and yet think that they shall see
+<pb n="4" facs="tcp:206372:8"/> the said holy citty, not considering that it is with them, as with those Women, of whom the Apostle speaketh, that being<note n="*" place="margin">2 Tim. 8.6, 7.</note> laden with sins, and led away with divers lusts, are ever learning; and never able to come to the knowledge of the truth. Whereas were the Exhortation onely hearkned unto, <hi>viz.</hi>
+               <note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 7.1.</note> Having therefore these promises (dearly beloved) let us cleanse our selves from all filthines of the flesh and spirit, perfecting holines in the feare of God, <hi>Christ</hi> would give us<note n="*" place="margin">Eph. 5.14.</note> light, the<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oh. 16.13.</note> Spirit of truth will more and more come into us, and guide us into all truth, and teach us all things, which pertain unto<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pet. 1.3.</note> life and godlines.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>struction.</note>A third use is for Instruction, that we for to see this glorious citty descending out of heaven from God, doe like <hi>Iohn</hi> enter into spirituall<note n="*" place="margin">The <hi>Greeke</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>deth in Psal. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.5. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th disposed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ensions in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> heart. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ol. 1.3.2. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il. 3.20. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v. 21.10. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sa. 33.17.</note> Ascension, with heart and mind to have our conver<g ref="char:EOLhyphen"/>sation in heaven: then (as <hi>Isaiah</hi> saith) our eyes shall<note n="*" place="margin">Psal. 143.10.</note> see the King in His beauty: wee shall behold the Land that is very farre off, which <hi>David</hi> calleth the<note n="*" place="margin">Eph. 1.17.18</note> Land of righteousnes, which is this citty and kingdome of the Lord. Concerning the seeing here menti<g ref="char:EOLhyphen"/>oned, that it may the better be understood, it is to be noted, that the Scripture signifieth of eyes within the soule, the which being opened, there is that seen, which the eyes of the body behold not. The<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts 26.18.</note> Apostle prayed for the <hi>Ephesians,</hi> that the eyes of their understanding might be inlightened. And Saint <hi>Paul</hi> saith,<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Num.</hi> 24.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.</note> hee was sent to open the eyes of the Gentiles. <hi>Elisha</hi> prayed the Lord to open the eyes of his servants, that he might see. And the Text saith:<note n="*" place="margin">Rev. 14.6.7.</note> The Lord opened his eyes, and hee saw that round about <hi>Elisha,</hi> which the eyes of his body perceived not. Also that is sometimes said to be seen, which is shewed to the understanding for to come to passe in his time. As <hi>Iohn</hi> saith,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he second <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xt. The <hi>Vulgar <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ine</hi> hath in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k. 1.1. <hi>Nar<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ionem, quae in nobis completae sunt, rerum,</hi> a declaration of the things, which are fulfilled in us. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> also <hi>Arias Montanus,</hi> the most great Divine <hi>John Arnet,</hi> in his first booke of true <hi>Christianity,</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 6. teacheth, that the whole New Testament is in some manner to be in us.</note> I saw another Angel flie in the midst of heaven, having the everlasting Gospell to preach unto them that dwell on the earth, and to every nation, &amp;c. Hee understood, what should bee in the latter times.</p>
+            <p>The second point to bee considered is, Whether the New <hi>Ierusalem</hi> is signified to come downe from God out of heaven? And that the verse immediatly following doth declare, it being there said: <hi>And I heard a great voyce out of heaven, saying, Behold
+<pb n="5" facs="tcp:206372:8"/> the Tabernacle of God is with men, and Hee will dwell with them, and they shall bee His people, and God himselfe shall bee with them, and bee their God.</hi> The which words doe expresly call the new <hi>Ierusalem</hi> Gods Tabernacle, and declare that it descendeth into his holy ones here on earth. This the Lord by <hi>Ezechiel</hi> promiseth to His people saying:<note n="s" place="margin">
+                  <hi>Exech.</hi> 37.26 27.</note> I will set my Sanctuarie in the<note n="t" place="margin">In ipsorum cor<g ref="char:EOLhyphen"/>dibus habitabo &amp; inambulabo Trentel. &amp; Iu<g ref="char:EOLhyphen"/>nius.</note> middest of them for evermore. My Tabernacle also shall bee with them: yea I will bee their God, and they shall bee my people. And of such Beeing of God within man, the Tabernacle made by <hi>Moses</hi> was also a signification. For as that consisted of three parts, so the<note n="u" place="margin">1 Ioh. 5.7. Gal. 3.2.4. Joh. 6.44. Rom. 5.1, 2. John 14.26.</note>
+               <hi>Three</hi> (the holy, blessed and glorious Trinity) have their operation within mans soule. The Father with the Law, the Son with the Faith, and the holy Ghost with all other things which pertain to godlinesse, and comfort everlasting. And it being added, <hi>Prepared as a Bride adorned for her husband,</hi>
+               <note n="*" place="margin">See the 18. workings of the holy Gho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reckoned up <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Polanus Syrt.</hi> 3. <hi>cap.</hi> 6.</note> thereby among other things is shewed the exceeding great excellencie thereof. It is called the<note n="w" place="margin">Lament. 2.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> perfection of beauty; it is said to have the<note n="x" place="margin">Rev. 21.11 John 50.2. Sundry parti<g ref="char:EOLunhyphen"/>cular matter of the City. The Cities Wall. The first pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cious stone.</note> glory of God, and her light to bee like unto a stone most precious, even like a Iasper stone, cleare as christall.</p>
+            <p>So now in the third place, sundry particular matters of the said New <hi>Jerusalem</hi> are to be considered, as the Wall thereof. Whose foundations are garnished with all manner of precious stones, the which are observed to be Christian vertues. The first founda<g ref="char:EOLhyphen"/>tion is Jasper.<note n="y" place="margin">Sundry ob<g ref="char:EOLunhyphen"/>servations a<g ref="char:EOLhyphen"/>bout these Stones are t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ken out <hi>Mr. Brightman.</hi>
+               </note> This stone is noted to bee of an heavenly bright<g ref="char:EOLhyphen"/>nesse, whose beauty it is easier to admire than for to declare. It is said to have a variety of sweetnesse in it, and therefore to signify the rich treasure of Gods gifts in his servants, such as are mentio<g ref="char:EOLhyphen"/>ned in the Epistle to the <hi>Corinthians,</hi> where it is said:<note n="z" place="margin">1 Cor. 12<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 9, 10, 11. The second stone.</note> To one is given by the Spirit, the word of Wisdom; to another the word of knowledge; to another faith, to another the gifts of healing, to another the working of miracles, to another Prophecie, to a<g ref="char:EOLhyphen"/>nother discerning of spirits, to another divers kindes of Tongues, to another the Interpretation of Tongues.</p>
+            <p>The second precious stone is Saphire, It is said to glister with golden points, and so to betoken godly pleasantnesse in manners and conversation.<note n="a" place="margin">1 Thes. 2.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Such a vertue the Apostles professed and practised. It is said in the booke of Wisdome,<note n="b" place="margin">Wisd. 8.1.</note> Wisdome doth reach from one end to another mightily: and sweetly
+<pb n="6" facs="tcp:206372:9"/> doth she order all things. See <hi>James</hi> 3.17. <hi>Colos.</hi> 3.12, 13.</p>
+            <p>The third stone<note place="margin">The 3. stone.</note> is a Calcedonie. And it is said to glister with a fierie brightnesse, and so to signifie zeale and fervencie in Chri<g ref="char:EOLhyphen"/>stianity. The vertue of<note n="c" place="margin">2 Cor. 7.11. Galat. 4.18. Tit. 3.14.</note> right zeale is much renewed in Scripture. It is that holy<note n="d" place="margin">Mat. 3.11.</note> fire with which the people of God become Bap<g ref="char:EOLhyphen"/>tized, when as they are baptized with the holy Ghost.<note n="*" place="margin">Psal. 119.59.90. Psal. 139.21, 22, 23, 24. Psa. 101.3.4.8. Rev. 3.19.</note> It doth burne up and consume more and more all evill thinkings, speakings and doings.</p>
+            <p>The fourth precious stone<note place="margin">The fourth Stone.</note> is an Emrald, the which is said to have a most pleasant greennesse, so as nothing can more delight the eyes. And (saith Master <hi>Brightman</hi>) this greennesse is the most Divine<note n="*" place="margin">Prov. 3.13, 14, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5. Wisd. 7.7, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 9, 10.</note> knowledge of matters, on which the minde of man doth desire to bee fixed, more than on any thing else. And (saith hee) it is placed next after Calcedonie, that so knowledge may accompany<note n="*" place="margin">Rom. 10.2.</note> zeale. The Apostle saith:<note n="*" place="margin">1 Cor. 14.20.</note> Brethren, bee not Children in un<g ref="char:EOLhyphen"/>derstanding, howbeit, in malice bee ye children, but in understan<g ref="char:EOLhyphen"/>ding bee men.</p>
+            <p>The fift stone<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he fifth stone.</note> is a Sardonix. It is said to shine, or to have such a lustre, as hath the naile of a man, growing on his finger, having whitenesse mingled with rednesse. And it is observed to note out unto us the vertue of humanity and ingenuity,<note n="*" place="margin">Phil. 2.15, 16. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>osh. 24.14. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 1.12. &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.17. 1 Thes. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.3, 4, 5.10.</note> sincerity and faire<g ref="char:EOLhyphen"/>nesse of disposition.<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> John 1.47. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hil. 4.8 9.</note>
+               <hi>Nathaniel</hi> was endued with this precious stone spiritually: for the Lord testified of him, saying: Behold, an Israelite indeed, in whom there is no guile.</p>
+            <p>The sixt stone<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he sixth <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one.</note> is a Sardius: and it is said to be red all over with a bloody colour: and that so it may signifie a certaine severity. It is observed to bee joyned with the Sardonix, to very good pur<g ref="char:EOLhyphen"/>pose, lest perhaps<note n="*" place="margin">Tit. 2.15. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de 23.</note> gentlenesse should waxe vile and contemptible, for want of such a companion as this is. The commandement is,<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 14.40.</note> That all things bee done decently and in order. It is also prescri<g ref="char:EOLhyphen"/>bed,<note n="*" place="margin">Phil. 4.8. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Mar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t there.</note> that whatsoever things are venerable, be thought upon.</p>
+            <p>The seventh stone<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e seventh <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne.</note> is a Chrysolite. It shineth throughout with a golden colour: and is noted to signify dignity and majestie. Gods Servants are to be endued with<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph. 4.14. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ov 10.20. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ach 28.25. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ov. 15.28.</note> weighty mindednesse: and as they are not to overvalew themselves, so not to undervalew themselves overmuch. The Apostle <hi>Paul</hi> had to doe with those, which did much undervalew him: and therefore hee was con<g ref="char:EOLhyphen"/>strained, sometimes to<note n="*" place="margin">Rom. 11.13. Cor. 11.16. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp;c.</note> declare his worth received of the Lord.</p>
+            <pb n="7" facs="tcp:206372:9"/>
+            <p>The eighth stone<note place="margin">The eighth Stone.</note> is a Berill. It is said to be skye coloured, and somewhat dark like water. And it is observed that the watry co<g ref="char:EOLhyphen"/>lour thereof betokeneth<note n="o" place="margin">S. <hi>Paul</hi> be<g ref="char:EOLhyphen"/>seeched the <hi>Corinthians</hi> by the meekness and gentlenes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Christ. 2 Cor. 10.1. The <hi>Geneva</hi> note interpret<g ref="char:EOLunhyphen"/>eth gentleness to be that na<g ref="char:EOLhyphen"/>ture, which is inclined to mercy, rather than to rigour of justice.</note> lenity and humility, such as water it self is, which will easily give place to every one. And so it is most meet company to follow the Majesty signified by <hi>Chrysolite,</hi> that so it may keep all within measure and compass. The vertue of lenity and humility is much held forth unto us in holy Scripture. It is said concerning <hi>Moses,</hi> that he was very<note n="p" place="margin">Numb. 12.3. Sir. 45. 4.</note> meek above all the men, which were upon the face of the earth. S. <hi>Peter</hi> saith:<note n="q" place="margin">1 Pet. 5.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Be ye clo<g ref="char:EOLhyphen"/>thed with humility. And <hi>Christ</hi> hath commanded, saying:<note n="r" place="margin">Matth. 11.29.</note> Learn of mea, for I am meek and lowly in heart: and ye shall finde rest unto your soules.</p>
+            <p>The ninth stone<note place="margin">The ninth Stone.</note> is a Topaz. One Writer saith, It hath in it the colours of all stones: and therefore it signifieth the study to be replenished with all vertues. Spiritual Topaz was in the high Priest <hi>Onias,</hi> concerning whom it is testified,<note n="s" place="margin">2 Mac. 15.1 It is remarka<g ref="char:EOLhyphen"/>bly said in 2 <hi>Mac.</hi> 31. That the holy city was inha<g ref="char:EOLhyphen"/>bited with al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> peace, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lawes were kept very well, because of the godliness of <hi>Onias</hi> the High Priest, and his hatred of wickedne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> He is praised <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> for hating of evill. Psal. 97.10.</note> That he was a vertuous and good man, reverend in conversation, gentle in condition, well spo<g ref="char:EOLhyphen"/>ken also, and exercised from a child in all points of vertue. <hi>Zacha<g ref="char:EOLhyphen"/>rias</hi> and <hi>Elizabeth</hi> are signified to have been endued with the same endeavour: for S. <hi>Luke</hi> writeth of them, That they were<note n="t" place="margin">Luke 1.6.</note> both righteous before God, walking in all the Commandements and Ordinances of the Lord blameless.</p>
+            <p>The tenth stone<note place="margin">The tenth stone.</note> is a Chrysoprasus, which is said to be of a co<g ref="char:EOLhyphen"/>lour golden and green. And therefore it is observed to be the pre<g ref="char:EOLhyphen"/>cious vertue the true and<note n="u" place="margin">Psal. 92.12 13, 14. Isa. 40.31.</note> lively faith in <hi>Jesus Christ.</hi> The Apostle saith,<note n="w" place="margin">Gal. 5.6.</note> That in <hi>Christ Jesus</hi> neither Circumcision availeth any thing, nor uncircumcision, but faith which worketh by love. The faith of the <hi>Thessalonians</hi> was said to<note n="x" place="margin">2 Thes. 1.</note> grow exceedingly, and the charity of every one of them all towards each other for to abound.</p>
+            <p>The eleventh stone<note place="margin">The eleven<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> stone.</note> is a Jacinct. It is said to be of the colour of water having in it the Sun-beams shining. And therefore it is no<g ref="char:EOLhyphen"/>ted to signifie the<note n="y" place="margin">Sir. 43. 33. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 50. 29. &amp; 51. Deut. 4.6, 7</note> Saints endued with wisdom and prudence. It is
+<pb n="8" facs="tcp:206372:10"/> the holy Commandement, that we should be<note n="*" place="margin">Mat. 10.16.</note> wise as Serpents, and harmless as doves. <hi>Solomon</hi> saith:<note n="*" place="margin">Prov. 4.7.</note> Wisdom is the principal thing: therefore get wisdom, and with all thy getting, get understanding <hi>Job</hi> delivereth, that God hath said unto Man:<note n="*" place="margin">Job 28.28.</note> Behold, the fear of the Lord, that is wisdom, and to depart from evill that is under<g ref="char:EOLhyphen"/>standing.</p>
+            <p>The twelfth stone<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he twelfth <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one.</note> is an Amethyst, the which is said to have a purple colour. And whereas to wear purple was in old time the custome of the greatest personages, therefore this precious stone is observed to signify the<note n="*" place="margin">It is read in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e margent <hi>Isa.</hi> 24.23. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here shall be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ory before <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is ancients. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey are the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iritual Eagles gathered to the body, and feeding thereon. <hi>Luke</hi> 17.37. They hear the joyful <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iritual sound. <hi>Psal.</hi> 89.15. They are raised up together with <hi>Christ,</hi> and made to sit toge<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er in heavenly places in <hi>Christ Jesus.</hi> Eph. 2.6.</note> supreme solace in Christianity, attainable in this world, the which S. <hi>John</hi> professed to have enjoyed, when as he said:<note n="d" place="margin">1 John 1.1, 2, 3, 4.</note> That which we have seen and heard, declare we unto you, that ye also may have fellowship with us; and truly our fel<g ref="char:EOLhyphen"/>lowship is with the <hi>Father,</hi> and with the Son <hi>Jesus Christ.</hi> And these things write we unto you, that your joy may be full.</p>
+            <p>Venerable<note n="*" place="margin">
+                  <p>So <hi>Haraeus</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th related on <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ev.</hi> 21. in his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dition of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lgar Bible <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th Expositi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</p>
+                  <p>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ther exposi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s deliver <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her observa<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns on the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d stones; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> unto the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omoting of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rtue, and so <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y are profit<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le.</p>
+               </note>
+               <hi>Beda</hi> writeth, that in the Jasper is signified the<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sal. 51.18, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> live<g ref="char:EOLhyphen"/>liness of faith; in the Saphire, the height of heavenly hope; in the Chalcedony, the flame of inward Charity; in the Emerald, the con<g ref="char:EOLhyphen"/>fession of a strong faith in adversity; in the Sardonix, the Saints hu<g ref="char:EOLhyphen"/>mility among the vertues; in the Sardius, the honoured blood of Martyrs; in the Chrysolite, spiritual preaching among Miracles; in the Berill, the perfect operation of the Preachers; in the Topaz, their fervent contemplation; in the Chrysoprasus the work and likewise the reward of the blessed Martyrs; in the Jacinct, the Teachers heavenly mounting up unto high things, and by reason of the weak, a low descending unto humane things; in the Ame<g ref="char:EOLhyphen"/>thyst, a remembrance always of the heavenly Kingdom, in the minde of hmmble ones. Whereas <hi>David</hi> in the confession of his sins prayed for the buildings up of the<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sal. 51.18, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> walls of <hi>Jerusalem</hi> adding that then God should be pleased with the Sacrifices of righteous<g ref="char:EOLhyphen"/>ness, is it not mystically signified, that the wall in the spiritual <hi>Je<g ref="char:EOLhyphen"/>rusalem</hi> within <hi>David</hi> had suffered some<note n="*" place="margin">Psal. 51.12.</note> decay, he giving way un<g ref="char:EOLhyphen"/>to his lusts and evil desires; and that the vertues of Chastity, Tem<g ref="char:EOLhyphen"/>perance, &amp;c. being repaired in him, he should then offer unto the Lord an<note n="*" place="margin">Mal. 3.3.</note> offering in righteousness?</p>
+            <p n="2">
+               <pb n="9" facs="tcp:206372:10"/>2. There may next be considered the Pearle of the Cities gates.<note place="margin">The Gates pearl.</note> The Text is: The twelve gates were twelve pearls, every several gate was of one pearle. It is true, what some do mention in ex<g ref="char:EOLhyphen"/>pounding this place, that <hi>Christ</hi> is the<note n="i" place="margin">
+                  <hi>Christ</hi> is the foundation. 1 <hi>Cor.</hi> 3.11. And yet <hi>Esr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> is called, the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> foundation o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the coming out of <hi>Baby<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ezra</hi> 7.9. See the mar<g ref="char:EOLhyphen"/>gent. The Apostle sait<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Christ</hi> is bef<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all things, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by him all things consi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> In all thing<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> He hath the preheminen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Col. 1.17, 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Gate and the pearl. And He is the most precious of all pearls, which God the Father hath given unto the Church, Most great is the mystery of <hi>Christ:</hi> He is said to be <hi>The all things in all.</hi> But S. <hi>John</hi> describing this glorious City, doth ascribe unto <hi>Christ</hi> for to be the spiritual Temple within the same. We may therefore see, how the Holy Ghost elsewhere hath expressed, what spiritual gates there are. <hi>David</hi> saith:<note n="k" place="margin">Psal. 118.20.</note> Open to me the gates of righteousness: I will go into them, and I will praise the Lord.<note n="l" place="margin">So readeth the ancient Translation, and also the <hi>Geneva.</hi>
+               </note> This is the gate of the Lord, the righteous shall enter into it, So that righteousness is signified to be a gate also. And that Christian righteousnes is also an heavenly pearl, it may appear from the testimony thereof, which <hi>Christ</hi> giveth; where he saith:<note n="m" place="margin">Matth. 7.12.</note> whatsoever ye would that men should do unto you, do ye even so to them: for this is the Law and the Prophets. If ye (saith S. <hi>John</hi>) that <hi>Christ</hi> is righteous, know ye, that every one which doth<note n="n" place="margin">John 2.</note> righteousnes, is born of Him. In this the children of God are manifest, and the children of the Devil:<note n="o" place="margin">1 John 3.10.</note> whosoever doth not righteousnes, is not of God, neither he that loveth not his brother.</p>
+            <p n="3">3.<note place="margin">The Ange<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> In the third place we may have some meditation on Angels at the gates. The Apostle saith:<note n="p" place="margin">Heb. 1.14<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Are they not all Ministring spi<g ref="char:EOLhyphen"/>rits, sent forth to minister for them, which shall be heirs of salvati<g ref="char:EOLhyphen"/>on? And where he mentioneth, that the <hi>Hebrews</hi> were then come unto the heavenly <hi>Jerusalem,</hi> he addeth also,<note n="q" place="margin">Heb. 12.2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> to an innumerable company of Angels. It is written in<note n="r" place="margin">Zech. 3.6, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>Zechariah,</hi> that the Angel of the Lord protested unto <hi>Joshua</hi> the high Priest, saying: Thus saith the Lord of Hosts: If thou wilt walk in my ways, and if thou wilt keep my charge, then thou shalt also judge mine house, and shalt also keep my Courts, and I will give thee walkes to walk among those that stand by. Those standers by are interpreted<note n="s" place="margin">In the <hi>Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>dee paraphra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> it is <hi>Seraphi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> An<g ref="char:EOLhyphen"/>gels.<note n="t" place="margin">John 1.5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Whosoever hath the new <hi>Jerusalem</hi> descending into him, shall more and more have some measure of understanding in the Scriptures deliveries concerning the Ministration of Angels. Mr.
+<pb n="10" facs="tcp:206372:11"/>
+               <hi>Brightman</hi>
+               <note n="*" place="margin">On Rev. 21.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> observeth it to be signified, that <hi>in the new Jerusalem men shall have a most sweet taste of the familiar conversing of the Saints among the holy Angels.</hi>
+            </p>
+            <p n="4">4. In the next place there may be considered the City it self.<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he City it <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f.</note> It is said to be of pure gold, like unto cleer glass. And whereas gold is the most excellent of mettals, there is to be noted, what vertue is the most excellent in the life and conversation of man<g ref="char:EOLhyphen"/>kinde, and so we may perceive, what the said spiritual gold is.<note n="*" place="margin">1 Cor. 12.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> The Apostle having reckoned up to the <hi>Corinthians</hi> sundry of Gods gifts, willeth them to covet earnestly the best; adding, <hi>And yet I shew unto you a more excellent way.</hi> The which he<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 13.</note> immediately afterward declareth to be the way of Charity, shewing the necessi<g ref="char:EOLhyphen"/>ty thereof, and sixteen properties of it, and<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erse 13. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Joh. 4.16. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8, 12. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h. 5.2. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ob 22.25.</note> concludeth, saying: now abideth Faith, Hope, Charity, these three, but the greatest of these is Charity. Whose excellency S. <hi>John</hi> signifieth, where he saith:<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the mar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t there, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Translati<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>Iunius.</hi>
+               </note> God is Charity, and he that dwelleth in Charity, dwelleth in God, and God in him. Who is also said to be His peoples gold as it is written in the book of <hi>Job.</hi> Yea, and the Almighty shall be thy <hi>a</hi> gold, and thou shalt have plenty of silver.</p>
+            <p n="5">5. Now concerning the Cities Street,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Cities <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et.</note> it is said to be pure gold, as it were transparent glass. Mr. <hi>Brightmans</hi> words hereon are very m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>morable, <hi>viz.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>Rev.</hi> 21.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. And on <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se 17. They <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll do no<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng at their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n pleasure, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l as their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es list, but <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y shall re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct the will God in all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gs, as if <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> were the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gels of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d: and in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sort they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l fulfill the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e will of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> most pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ously through the guidance of Gods spirit, which shall lead them into the land of righteous<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> The Streets be the high ways, wherein the Citizens meet together, when they have ought to do one with another. Even as therefore the ways of a man are the actions about which a man is conversant, so those streets of the city are those publike duties and traffickings, whereabout the citizens are imployed diligently for the maintaining of this bodily life. The holy Ghost saith, That all these shall be holy, pure, clean, precious; for the place, wherein men shall meet to dispatch these affaires, is made of pure and glittering gold, as above, <hi>verse</hi> 18. How ho<g ref="char:EOLhyphen"/>ly and unblamable shall this city be, wherein the common con<g ref="char:EOLhyphen"/>versation of men, than which nothing useth to be more filthy and defiled, shall be free from all filthy wickednes. Now shall justice run down through the streets like a river, and true godliness shall shine forth in all the affairs of men.<note n="c" place="margin">The Authors of the Book called <hi>Zions</hi> joy, &amp;c.</note> Another saith: This golden lustre is said to be as cleer as glass, thorow shining with brightness, that
+<pb n="11" facs="tcp:206372:11"/> all men may cleerly see the graces &amp; favour of God, and even God Himself shining in the Saints, and so are the very streets of this holy city, where the Saints converse, of the same golden brightness of life and conversation in all their dealings, without such fraud and circumventions, as now the world is full of.</p>
+            <p n="6">6. The cities Temple may next be considered. S. <hi>John</hi> saith:<note place="margin">The Temp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> I saw no Temple therein: for the Lord God Almighty, and the Lamb, are the Temple thereof.<note n="d" place="margin">Ezech. 11<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> God said unto the house of <hi>Isra<g ref="char:EOLhyphen"/>el:</hi> Although I have cast them far off among the heathen, and al<g ref="char:EOLhyphen"/>though I have scattered them among the countries, yet will I be unto them as a little Sanctuary, in the countries where they shall come. It is said in <hi>Isaiah;</hi>
+               <note n="e" place="margin">Isaiah 54.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> All thy children shall be taught of the Lord, and great shall be the peace of thy children. S. <hi>John</hi> said to the Ancients in Christ:<note n="f" place="margin">1 John 2.27.</note> Ye have an Unction from the holy one, and ye know all things. But the Anointing which ye have received of Him, abideth in you: and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie: and even as it hath taught you, ye shall abide in Him.</p>
+            <p n="7">7. The citie hath a special light;<note place="margin">The Citie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> light.</note> for the glory of God doth lighten it, and the Lamb is the light thereof. <hi>David</hi> saith;<note n="g" place="margin">Psal. 45.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> The Kings daughter is all glorious within. Where the<note n="h" place="margin">Psal. 24.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 9, 10.</note> King of glory entereth, there is abundance of spiritu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l glory. It is to be obser<g ref="char:EOLhyphen"/>ved, that as the light which cometh down from the<note n="i" place="margin">James 1.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Father of lights is termed a<note n="k" place="margin">2 Pet. 1.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rev. 2.28.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> star, so is it also called a Sunne, a Moon, and a candle. <hi>David</hi> saith:<note n="l" place="margin">Psal. 84.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> The Lord God is a Sun and a Shield: the Lord will give grace and glory: no good thing will He with<g ref="char:EOLhyphen"/>hold from them that walk uprightly. <hi>Isaiah</hi> saith to the people of God:<note n="m" place="margin">Isa. 60.2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Thy Sun shall no more go down, neither shall thy Moon withdraw it self: For the Lord shall be thine everlasting light. It was said unto<note n="n" place="margin">2 Esdr. 14<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>Esdras:</hi> I will light a candle of understanding in thine heart. And (saith our Saviour) a<note n="o" place="margin">Mat. 5.1</note> candle is not lighted to be put under a Bushel; but on a Candlestick, and it giveth light to all that are in the house. Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.</p>
+            <p n="8">8. The city hath a river. It is a pure river of water of life,<note place="margin">The Cities river.</note> clear as Christal, proceeding out of the throne of God, and of the
+<pb n="12" facs="tcp:206372:12"/> Lamb. <hi>Christ</hi> said to the woman of <hi>Samaria:</hi>
+               <note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn 4.13,</note> Whosoever drink<g ref="char:EOLhyphen"/>eth of the water, that I shall give him, shall never thirst: but the water that I shall give him, shall be in him a well of water spring<g ref="char:EOLhyphen"/>ing up unto everlasting life. Who also<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn 7.38,</note> pronounced: He that be<g ref="char:EOLhyphen"/>lieveth in me, as the Scripture hath said, out of his belly shall flow rivers of living waters. S. <hi>John</hi> saith, This spake He of the Spirit, which they that believe on Him, should receive. As the Lord giveth<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn 8.12.</note> light of life in minde and conversation; so doth He<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ev. 22.1.</note> water of life. In <hi>Ezechiel</hi> it is<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zek. 47.3, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> signified, to be at the first as waters but up to the anckles; afterward to become as waters up to the loynes. But at length to be as waters to swimme in, a river that cannot be passed over.</p>
+            <p n="9">
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Cities <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>9. The city hath a constant food, the which is said to be the Tree of life, which beareth twelve manner of fruits, and yieldeth her fruit every moneth. It is signified to be a<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ev. 2.7.</note> Tree in the midst of the Paradise of God. And a sanctified soul is a spiritual Paradise, as may appear from the Scripture,<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong 8.13.</note> O thou that dwellest in the gardens, the companions hearken to thy voyce: cause me to hear it. It is true that <hi>Christ</hi> is the tree of life, He is (as was aforesaid) <hi>The all in all.</hi> Now here for the more distinct expressing of matters, we are to consider, what holy Writ also saith, that the tree of life is. <hi>Solomon</hi> saith:<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ov. 3.18.</note> The wisdom of God is a tree of life to them that lay hold upon her. He writeth also:<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ov. 11.30.</note> The fruit of the righte<g ref="char:EOLhyphen"/>ous is a tree of life. And the said wisdom hath furnished her Ta<g ref="char:EOLhyphen"/>ble, saying.<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rov. 9.5.</note> Come, eat of my bread, and drink of the wine which I have mingled.<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 24.19.</note> Come unto me all ye that be desirous of me, and fill your selves with my fruits. Twelve manner of fruits the Tree of life beareth: for the Apostle saith:<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph. 3.10.</note> Manifold is the wis<g ref="char:EOLhyphen"/>dom of God, and<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph. 3.8.</note> unsearchable are the riches of <hi>Christ,</hi> which He communicateth more and more in His time. The Tree of life (as the<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ov. 11.30.</note> Text teacheth) is the fruit of the righteous, it is a nature, which is spiritual, upright, and just. The Lord <hi>Christ</hi> said unto his Disciples:<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn 15.16,</note> I have chosen you, and ordained you, that you should go and bring forth fruit, and that your fruit should remain. Herein is my Father glorified, that ye bear much fruit, so shall ye be my Disciples. Who said,<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn 4.34.</note> My meat is to do the will of Him that sent me, and to finish His work.</p>
+            <p n="10">
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Cities <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sick.</note>10. There is Physick also in the city. It is said: The leaves of
+<pb n="13" facs="tcp:206372:12"/> the Tree of life are for the healing of the Nations. As the Tree is spiritual, so are the leaves also. The infinite wisdom of God, which knoweth all maladies in the minde of mankinde, hath<note n="g" place="margin">There is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> balm in <hi>Gile</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ther are Sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tual Physitia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jer. 8.22.</note> means for the curing of every one of the same in the nations, that fear his great and glorious name. The Lord saith to <hi>Malachi:</hi>
+               <note n="h" place="margin">Mal. 4.2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Unto you that fear my name, shall the Sun of righteousness arise with heal<g ref="char:EOLhyphen"/>ing in his wings. <hi>David</hi> signifieth it to be unto the praise of the Lord, healing<note n="i" place="margin">Psal. 103.3</note> all his diseases, and that his youth was renewed like the Eagles. It is said for the healing of the Nations. Such as have received the city into themselves, are in a comfortable measure of spiritual health. <hi>Isaiah</hi> saith,<note n="k" place="margin">Isa. 33.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> The Inhabitant shall not say, I am sick. But such as are strangers have need of<note n="l" place="margin">Rev. 3.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Acts 26.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> eye salve, that they may see, in what condition they are, whiles they are (as the Apostle describeth)<note n="m" place="margin">Eph 2.12</note> without <hi>Christ,</hi> being aliens from the Common<g ref="char:EOLhyphen"/>wealth of <hi>Israel,</hi> and strangers from the Covenants of Promise, ha<g ref="char:EOLhyphen"/>ving no hope, and without God in the world.</p>
+            <p n="11">11. The citizens have a delightful prospect. It is written,<note place="margin">The Cities ptospect.</note> they shall see Gods face. The Apostle saith;<note n="n" place="margin">2 Cor. 4.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> God who commanded light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God, in the face of <hi>Je<g ref="char:EOLhyphen"/>sus Christ.</hi> And <hi>David</hi> saith:<note n="o" place="margin">Psal. 17.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> As for me, I will behold thy face in righteousness. God in His time, in some measure and manner vouchsafeth unto His holy ones, to have within their spirits a cer<g ref="char:EOLhyphen"/>tain beholding of Him, which though it be as through a<note n="p" place="margin">2 Cor. 3.</note> glass, yet it is unexpressably joyful. It is written, that the Lord hath<note n="q" place="margin">2 Chro. 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1 Kings 3.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and 9.2. Gen. 12.7 Acts 26.13<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 15, 16.</note> ap<g ref="char:EOLhyphen"/>peared at sundry times, and in divers manners to his servants here on earth, unto their great consolation. <hi>Job</hi> attained at length to say:<note n="r" place="margin">Job 42.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> I have heard of thee by the hearing of the ear: but now mine eye seeth thee. <hi>Jacob</hi> said.<note n="s" place="margin">Gen, 32.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> I have seen God face to face, and my life is preserved. <hi>David</hi> said:<note n="t" place="margin">Psal. 27.4</note> One thing have I desired of the Lord, that will I seek after, that I may dwell in the house of the Lord, all the days of my life, to behold the beauty of the Lord, and to enquire in His Temple.<note n="u" place="margin">Ps. 63.1, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> It is wor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the noting, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> some of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cient Genti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are signifie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have apprehended, that there is now some manner and measure of seeing God attainable, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> also of knowledge of holy Angels. <hi>Polanus</hi> in his <hi>Synt. lib.</hi> 1. <hi>cap.</hi> 1. saith: <hi>Per Theurgicas conse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>tiones idoncum sicri animum Gentiles credebant, ad susceptionem spirituum Angelicorum, &amp; ad D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>videndum.</hi>
+               </note> He therefore saith else<g ref="char:EOLhyphen"/>where: O God, thou art my God, early will I seek thee: my
+<pb n="14" facs="tcp:206372:13"/> soul thirsteth for thee, my fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sh longeth for thee, in a dry and thir<g ref="char:EOLhyphen"/>sty land, where no water is: To see thy power and thy glory, so as I have seen thee in thy Sanctuary. S. <hi>Stephen</hi> being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and <hi>Jesus</hi> standing on the right hand of God, and said, Behold, I see the heavens opened, and the Son of man stand<g ref="char:EOLhyphen"/>ing on the right hand of God. <hi>Acts</hi> 7.55, 56.</p>
+            <p n="12">
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Cities <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntinulng.</note>12. It is a continuing city. There is added in conclusion of the Dsecription,<note n="*" place="margin">Rev. 22.5.</note> They shall reign for ever and ever. <hi>New Je<g ref="char:EOLhyphen"/>rusalem</hi> is a<note n="*" place="margin">Heb. 12.28.</note> Kingdom, that cannot be shaken, it is a city invinci<g ref="char:EOLhyphen"/>ble. It is said in <hi>Isaiah:</hi>
+               <note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sa. 26.1.</note> We have a strong city, salvation will God appoint for walls and bulwarks.<note n="*" place="margin">Isa. 38.20, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 22.</note> Thine eyes shall see <hi>Jerusalem</hi> a quiet habitation, a Tabernacle that shall not be taken down, not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken. But there the glorious Lord will be unto us a place of broad rivers and streams, wherein shall go no galley with oares, neither shall gallant ship passe thereby. For the Lord is our Judge, the Lord is our Law-giver, the Lord is our King, he will save us. It is said, the city<note n="*" place="margin">Rev. 21.16.</note> lieth four square: and one de<g ref="char:EOLhyphen"/>livereth this<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is among <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> larger <hi>Gene<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> notes.</note> note thereon, that a four-square figure hath equall sides, and outright corners; and therefore the <hi>Grecians</hi> call by this name those things that are steady, and of continuance, and perfect.</p>
+            <p>And now in the fourth and last place there is to be considered the use and profit of the whole. A saying therefore in <hi>Esdras</hi> may first be mentioned, <hi>viz.</hi>
+               <note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he fourth <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> last matter <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>out the Text. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Esdras 7.6, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8, 9, 10.</note> A city is builded and set upon a broad field, and is full of all good things. The entrance thereof is nar<g ref="char:EOLhyphen"/>row, and is set in a dangerous place to fall, like as if there were a fire on the right hand, and on the left a deep water. And one on<g ref="char:EOLhyphen"/>ly path between them both, even between the fire and the water, so small that there could but one man go there at once. If this city now were given to a man for an inheritance; if he never shall pass the danger set before it, how shall he receive this inheritance? Even so also is <hi>Israels</hi> portion.</p>
+            <p>There have been even in every age some, which have endeavou<g ref="char:EOLhyphen"/>red to<note n="*" place="margin">Another me<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rable. Simi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de is afore <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ses 3, 4, 5. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e narrow is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be gon tho<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for to come <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the broad. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 7.13, 14. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is almost <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>redible, that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re have been so many divers opinions about the <hi>Summum bonum,</hi> as <hi>Varro</hi> relateth, He is said <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have collected 188. thereabout.</note> finde out the <hi>Summum Bonum</hi> in this life, to comprehend in
+<pb n="15" facs="tcp:206372:13"/> what understanding and meditation the minde of man may enjoy most content: and some have conceived it to be one thing, and others another. But they which observe the harmony of the uni<g ref="char:EOLhyphen"/>versal Scripture hereunto, and consider unto what Being now, every of the courses bringeth, do plainly perceive, that the enjoy<g ref="char:EOLhyphen"/>ing of the spiritual <hi>Jerusalem</hi> is the Soveraign Good attainable in in this world. <hi>Solomon</hi> saith:<note n="e" place="margin">Eccles. 2.3.</note> I sought in mine heart to give my self unto wine, (yet acquainting my heart with wisdom) and to lay hold on folly, till I might see what was that Good for the Sons of men, which they should do under the heaven, all the dayes of their life. And he afterward writeth;<note n="f" place="margin">Verse 12, 13<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 14.</note> Let us hear the conclusion of the whole matter; Fear God, and keep his Commandements; for this is the whole duty of man. For God shall bring every work into judgement, with every secret thing, whether it be good, or whe<g ref="char:EOLhyphen"/>ther it be evil.<note n="g" place="margin">Ecclus. 23.2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>Sirach</hi> saith: And they that remain shall know, that there is nothing better then the fear of the Lord, and that there is nothing sweeter than to take heed unto the Commande<g ref="char:EOLhyphen"/>ment of the Lord. Wherefore for to enter into the said Spiritual city, S. <hi>John</hi> after the Description declareth the way thereinto, say<g ref="char:EOLhyphen"/>ing:<note n="h" place="margin">Rev. 22.14<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Blessed are they that do His Commandements, that they may have right to the tree of life, and may enter in thorow the gates into the city. The study of all the<note n="i" place="margin">Mat. 19.16, 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 18, 19. Sir. 1.5.</note> everlasting precepts is the paths thereinto. <hi>David</hi> saith:<note n="k" place="margin">Ps. 119.16<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Great peace have they which love thy Law, and nothing shall offend them. Whereas they which<note n="l" place="margin">Ps. 1.2. Psal. 119.97.</note> delight not in the Law of the Lord, though they have a sound bo<g ref="char:EOLhyphen"/>dily health, and abundance of earthly wealth, yet they are voyd of the<note n="m" place="margin">Isa. 57.20<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 21. Rev. 14.11. Psal. 11.6.</note> peace of God in their consciences, they (as <hi>Isaiah</hi> saith) are like the troubled Sea, when it cannot rest, whose waters cast up mire and dirt. The Apostle saith:<note n="n" place="margin">Rom. 2.8, 9. John 3.36.</note> Tribulation and anguish, in<g ref="char:EOLhyphen"/>dignation and wrath is upon every soul of man that doth evill. And they which harden their hearts, and go on in disobedience, and sit in the seat of the scornfull, at length (as <hi>Isaiah</hi> delivereth) become to have bred within them the gnawing worm, which dieth not; and to have a fire kindled within them, which goeth not out.<note n="o" place="margin">Isa. 66.24. The Hebrew there signifie not literally have transgressed, but transgressing; it speaketh of the present. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> See Prov. 9.18. Mat. 3.10.</note> They are in a spiritual Hell, whiles they are in the body. We
+<pb n="16" facs="tcp:206372:14"/> are required to humble our selves for to<note n="*" place="margin">Micah 6.8. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en 6.9 and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 22.</note> walk now with God, in the company of whose holy Spirit there is comfort unexpressable. But if He seeth us to set our affection on earthly riches or bo<g ref="char:EOLhyphen"/>dily<note n="*" place="margin">2 Tim. 3.4. Heb. 12.10.</note> pleasures more then on Him, and do neglect<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pet. 1.4.</note> partaking of his holiness, and growing in the Christian nature, and<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ames 4.8.</note> drawing neerer and neerer unto him in holy understanding and upright Conversation, that saying of <hi>David</hi> is to be remembred:<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sal. 73.27, 28</note> For loe, they that are far from thee shall perish: thou destroyest all them that go a whoring from thee. We are to consider, that we came to be on the face of the earth, for to<note n="*" place="margin">Acts 17.26, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7, 28.</note> seek the Lord (as Saint <hi>Paul</hi> teacheth) if haply we might feel after Him and finde H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, though He be not farre from every one of us. For in Him we live, and move, and have our being. Also now to endeavour to<note n="*" place="margin">Eph. 4.24. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ol. 3 10.</note> live in His image and likness, which is heavenly wisdom, righteousness, and true holiness. And to<note n="*" place="margin">Phil. 3.14.</note> press toward the mark, for the prize of the high calling of God in <hi>Christ Jesus.</hi> We are not to make it our chiefest care, how to<note n="*" place="margin">Hab. 2.6.</note> lade our selves more and more with thick clay (as the Lord speaketh in <hi>Habakkuk</hi>) much less to<note n="*" place="margin">Phil. 3.19. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ol. 3.2. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al. 62.10.</note> set our whole hearts on thick clay (as innumerable do, and at lest per<g ref="char:EOLhyphen"/>ceive that they lived not in a right minde:) for <hi>Christ</hi> pronounce<g ref="char:EOLhyphen"/>eth him to be a<note n="*" place="margin">Tim. 6.17, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 19. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at. 6.19, 20, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Luke 12.20, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od requireth <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at every one <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m his youth <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> do increase <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> spiritual <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hes, together <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th a due en<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>avour for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e necessary <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngs of this <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut. 31.12, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cles. 12.1. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hes. 6.4. and 2 Tim. 3.15. Psal. 84.7. and 2 Thes. 3.8. and 1 Tim. 5.8.</note> fool, that layeth up treasure for himself, and is not rich towards God.</p>
+            <p>The first thing therefore that every one is to do, that would lay a firm foundation for his spiritual welfare now and everlastingly, is throughly to know his own<note n="*" place="margin">Isa. 44.20. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 3.40.</note> heart, to examine and search unto what it is inclined, whether towards<note n="c" place="margin">1 Cor. 6.17. and 2.16. and 2 Cor. 4.10, 11. <hi>Nosce teipsum.</hi>
+               </note> union with the Creatour (blessed for ever) with His Spirit, minde, and life; or whether for to cleave unto somewhat which is not the Creatour. <hi>Jeremiah</hi> saith<note n="d" place="margin">Jer. 17.9, 10.</note> the heart of man is deceitful above all things, and desperate<g ref="char:EOLhyphen"/>ly wicked: who can know it? The Lord searcheth the heart, and trieth the reins, even to give every man according to his wayes, and according to the fruit of his doings. <hi>Solomon</hi> saith:<note n="e" place="margin">Prov. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.8.</note> The wisdom of the prudent is to understand his way. It is to see how it agreeth with all Gods word, how we are decreasing in what is not good, and how we encrease in the Christian vertues, and how we do now
+<pb n="17" facs="tcp:206372:14"/> enjoy more and more the promises or the blessings, that are be<g ref="char:EOLhyphen"/>stowed in this<note n="f" place="margin">1 Tim. 4.8.</note> life. The one only cause, why there is so much dif<g ref="char:EOLhyphen"/>ference, is, because we judge others, afore we have<note n="g" place="margin">Mat. 7.5. 1 Cor 11.31.</note> duely judged our own selves by Gods<note n="h" place="margin">Psal. 119.9. 2 Tim. 3.16, 17. Rom. 15.4. 1 Cor. 4.5.</note> universal Scripture. It is a great property in the fall of man,<note n="i" place="margin">2 Tim. 3.2.</note>
+               <hi>Self-love,</hi> a good<note n="k" place="margin">Luke 18.9. and 16.15.</note> opinion of ones own spiritu<g ref="char:EOLhyphen"/>al estate, afore he hath throughly examined it. He that would enjoy now the Spiritual City, may obey the Apostles counsel:<note n="l" place="margin">1 Cor. 3.18, 19.</note> If any man among you seem to bee wise in this world, let him become a foole, that hee may bee wise. It was a charge laid against <hi>Moab;</hi>
+               <note n="m" place="margin">Jer. 48.11.</note>
+               <hi>Moab</hi> hath bin at ease from his youth, and hee hath<note n="n" place="margin">Zeph. 1.12. Gen. 12.1.</note> setled on his lees, and hath not bin emptied from vessell to vessell, neither hath he gone into captivity: therefore his tast remained in him, and his sent is not changed. And saith the Prophet:<note n="o" place="margin">Jer. 5 25. Jonah 2.8.</note> Our sinnes have withholden good things from us. It is signified therefore that they in<note n="p" place="margin">So it is read in the <hi>vulgar Latine</hi> Text. Sap. 5.14. <hi>Talia dixerunt in inferno hi, q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> peccaverunt.</hi> See Wisd. 5.3, 4, 5, 6, 7, 8.</note> Hell, repenting and groaning for anguish of spirit, shall say with themselves: Wee have erred from the way of truth, and the light of Righteousnesse hath not shined unto us, and the Sunne of righteousnesse rose not upon us. Wee wearied our selves in the way of wickednesse and destruction: Yea, wee have gone thorow desarts, where there lay no way: but as for the way of the Lord. wee have not knowne it. What hath pride profited us? or what good hath riches with our vaunting brought us?</p>
+            <note n="*" place="margin">The way unto the New <hi>Jerusalem</hi> spiritual, in which the Patriarchs, Prophet<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Apostles, and all the people of God, have ever walked, and so in this life enjoyed it, is i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> plain and perfect manner declared in the Treatis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> intituled. <hi>A way unto true Christian unity.</hi>
+            </note>
+            <p>The next thing is to<note n="q" place="margin">Psal. 16.8, 9<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 10, 11. Jer. 3.17.</note> set the new <hi>Jerusalem</hi> spirituall before our eyes, to be a marke whereat to aime and to presse towards it, me<g ref="char:EOLhyphen"/>ditating on the good things therein, and to use all meanes furthering the passing therinto. Also not to insist much on<note n="r" place="margin">Mat. 7.13, 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> great company in the journey, but to<note n="s" place="margin">Acts 2.40. 1 Tlm. 4.16.</note> save our owne selves, to get as soone as may be into the city for the increase of our owne<note n="t" place="margin">Prov. 9.12. Deut. 10.13. and 6.21.</note> good. For it is a land flowing with<note n="u" place="margin">Numb. 12.13.27.</note> milke and hony: a land which the Lord God careth for:<note n="w" place="margin">Deut. 28.1<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> It is continually fulfilled in the spiritual sense.</note> the eyes of the Lord God are alwayes upon it, from the beginning of the yeere even unto the end of the yeere. And so now<note n="x" place="margin">Heb. 12.22, 23, 24. M. <hi>Bright.</hi> on Rev. 21.2. I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>terpreteth <hi>Jerusalem</hi> there mentioned to the Hebrews, for to be here on earth: so some others als<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> comming unto mount Sion, and unto the
+<pb n="18" facs="tcp:206372:15"/> City of the living God, the heavenly <hi>Jerusalem,</hi> and to an innu<g ref="char:EOLhyphen"/>merable company of Angels; to the Generall assembly, and Church of the first borne, which are written in heaven, and to God Iudge of all, and to the spirits of just men made perfect: and to Jesus the mediatour of the new covenant; and to the blood of sprinkling, that speaketh better things than that of <hi>Abel,</hi> wee shall<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mark 4.26.28 Numb. 17.8.</note> more and more receive the knowledge of all these, unto that<note n="*" place="margin">Isa. 29.19.</note> in<g ref="char:EOLhyphen"/>crease of holy joy, and have faith and hope for enjoying the<note n="*" place="margin">Eph. 4.13.</note> ful<g ref="char:EOLhyphen"/>nes there of for evermore.</p>
+            <q>Pray for the Peace of <hi>Jerusalem:</hi> they shall prosper that love thee. <bibl>
+                  <hi>Psal. 122.6.</hi>
+               </bibl>
+            </q>
+         </div>
+         <div type="appendix">
+            <pb facs="tcp:206372:15"/>
+            <head>AN APPENDIX Concerning ASTROLOGIE.</head>
+            <p>
+               <seg rend="decorInit">G</seg>OD Almighty himself (blessed for ever) having said:<note n="a" place="margin">Job 38</note> Knowest thou the <hi>Ordinances</hi> of Heaven? canst thou set the <hi>Dominon</hi> thereof in the Earth? giveth to be understood that there is an appointed Course for the Heavenly bodies, and that they have a great oppera<g ref="char:EOLhyphen"/>tion in Naturall things here on earth. <hi>Junius</hi> in his annotation on the verse doth thus expound: <hi>An coeli cursum &amp; effecta in inferiora moderari potes, quae instituerat D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us?</hi> The which also the Lord hath expressed, where afore He said:<note n="b" place="margin">Job. 38.3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Canst thou binde the sweet Influences of the<note n="c" place="margin">So it is r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dred in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Margent.</note> seaven Starres? or loose the bands of <hi>Orion? Castellio</hi> interpreteth the sweet Influences to be the pleasantnesse of the Spring time, whereof those Starres are Instruments. And <hi>Junius</hi> saith on the <hi>bands</hi> of <hi>Orion,</hi> That with them he is wont to bring (or cause) showres, tempests, and colds.<note n="d" place="margin">
+                  <hi>Ver.</hi> 32.</note> It is also said: canst thou bring forth the <hi>twelve</hi>
+               <note n="e" place="margin">So in M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>signes</hi> in their season, <hi>&amp;c.</hi> Or canst thou guide <hi>Arcturus</hi> with his Sonnes? It is written, that they fought from Heaven, the Starres in their courses<note n="f" place="margin">Jud. 5.20</note> fought against <hi>Sisera.</hi> The which <hi>Junius</hi> signifieth to be by ra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes, windes, hailes, stormes. The Lord also saith:<note n="g" place="margin">Hos. 2.2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> I will heare the Heavens, and they shall heare the earth. In the booke of <hi>Daniel</hi> it is written:<note n="h" place="margin">Dan. 4.3</note> God doth according to his will in the Army of Heaven, and among the inhabitants of the earth. Seeing then that the heavenly bodies have dominion in the earth, as God hath signified, sundry of His servants have bin conversant in meditating on the same, according to the Scripture.<note n="i" place="margin">Ps. 111.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> The works of the Lord are great, sought out of all them, that have pleasure therein. Doth not <hi>Job</hi> declare to have had some knowledg in the Stars saying:<note n="k" place="margin">Job 9.9.</note> Which maketh <hi>Arcturus, Orion,</hi> and <hi>Pleiades,</hi> and the chambers of the South. <hi>Solomom</hi> de<g ref="char:EOLhyphen"/>livereth, that among other matters of wisdom,<note n="l" place="margin">Wis. 7.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 18, 19.</note> which God gave unto Him, hee received the knowledge of the <hi>Positions</hi> of the Starres. And he signifieth, that the power and vertue of the lights of Heaven is so great, as that men have bin<note n="m" place="margin">Wisd. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> astonished in the consideration of the
+<pb facs="tcp:206372:16"/> same. And he writeth:<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se 5.</note> By the greatnesse and beauty of the crea<g ref="char:EOLhyphen"/>tures proportionably, the maker of them is knowne. The Apostle saith:<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 1.20.</note> The invisible things of Him from the Creation of the World are cleerely seen, being understood by the things that are made, even His eternall Power and Godhead. The Jews report of <hi>Abraham,</hi> that he was an excellent looker into the Stars. So<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his greater <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ean Lexi.</hi>
+               </note>
+               <hi>Buxtorfius</hi> delivereth to be the meaning of their saying <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Astronomie (or<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there hee <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>preteth <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aid Word.</note> Astrologie) was in the minde of <hi>Abraham.</hi> They have also a deliverie considerable hereunto concerning the Starres operations in things here on earth: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>That is,<note n="*" place="margin">
+                  <hi>Shindler</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e roote</note> thou hast not any hearb below, unto the which there is not a Starre in the Firmament, and that star striketh it, and saith unto it, grow thou.<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut. 33.14.</note>
+               <hi>Moses</hi> mentioneth of precious things brought forth by the Sun, and of precious things put forth by the Moone. He teacheth, that God set lights in the Firmament of Heaven, and among other causes, that they should be for<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. 1.14.</note> signes, and for seasons, and for dayes and yeeres. And now whereas true Astrologie doth abundantly declare Gods won<g ref="char:EOLhyphen"/>derfull workes in Nature, it is therefore a Science much to be honoured for the excellency of the Learning. But yet some Object against it, whose mistake we will endeavour to discover, that Truth may appeare the more plainly.</p>
+            <p>It is Objected, That whereas in <hi>Deut. 18.10.</hi> the using of divination is forbidden, and that divining is a part of Astrologie, therefore the said Art is unlawfull.</p>
+            <p>Answer. As there is an unlawfull divining, such as is acted by help of the ill Spirit; so is there also a<note n="*" place="margin">Prov. 16.. Margent. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 44.5.15.</note> lawfull divining. It is said in <hi>Micah 6.3.</hi> Therefore night shall be unto the Prophets, that yee shall not have a vision, and it shall be darke unto you, that ye shall not divine. It is much considerable, what is writtren in <hi>Isa 3.1.2.</hi> That the Lord would take from <hi>Ierusalem,</hi> the mighty man, and the man of War, the Judge, and the Prophet, and the <hi>Diviner, &amp;c.</hi> Here the <hi>Di<g ref="char:EOLhyphen"/>viner</hi> is set among those, which were of a lawfull condition. The word is rendred <hi>Prudent.</hi> The <hi>Chaldean Praphrase</hi> hath it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> one which is asked and counselled withall concerning matters to come, as <hi>Shindler</hi> the reputed most learned interpreter of the Nobler Eastern Tongues hath expounded, The Lord <hi>Christ</hi> declareth,<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 16.2.3. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2.24, 25.</note> that in some
+<pb facs="tcp:206372:16"/> naturall things there may be of foretelling, what is likely to come to passe as somtimes by the evening to conjecture of the day following, <hi>&amp;c.</hi> Moreover, it is observed, that such were the children of <hi>Issachar,</hi> con<g ref="char:EOLhyphen"/>cerning whom it is written,<note n="x" place="margin">1 Chr. 12<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> that they were men which had understan<g ref="char:EOLhyphen"/>ding of times, to know what <hi>Israel</hi> ought to doe. And the Scripture saith, all their brethren were at their commandement, they followed the words of their mouth.<note n="y" place="margin">In his co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ment on th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> place.</note>
+               <hi>Osiander</hi> saith: <hi>Hebraice, Scientes intelle<g ref="char:EOLhyphen"/>ctum temporum, ad cognoscendum (id est) qui norant, quomodo in bello opportunitate &amp; occasione temporis utendum esset: ut sciretur in exercitu, quid pro re nata facere deberet populus Israel. In bello enim pleraque consilia extemporalia sunt.</hi>
+            </p>
+            <p>
+               <hi>Obj.</hi> The <hi>Arabicke</hi> Translation hath rendred the <hi>Hebrew</hi> word, <hi>Hee that exerciseth Astrologie.</hi> Therefore the said Art is there for<g ref="char:EOLhyphen"/>bidden.</p>
+            <p>
+               <hi>Answ.</hi> No Version is of sufficient Authority to prove or disprove by, in matters of controversie, but the Originall Scripture only. The five bookes of <hi>Moses</hi> are extant also in the <hi>Samaritane</hi> Tongue, and in the <hi>Persian:</hi> the <hi>Gospel</hi> is set forth in the <hi>Syrian</hi> and <hi>Ethiopian.</hi> And good use may be made of these antient Translations for the illustration of many a point.<note n="z" place="margin">The mul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tude of Tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>slations into <hi>Latine,</hi> she<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> how men k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in part. 1 <hi>Cor.</hi> 13.9.</note> But whereas Translatours doe sometimes render Texts according to the Divinity of the country wherein they dwell; and sometimes they expresse matters according to their owne private affe<g ref="char:EOLhyphen"/>ction, and sometimes in difficult sayings, they knowing not the minde of the holy Ghost, doe interpret unperfectly, therefore no doctrine is to bee grounded upon their meere Translation. Yet the Learned have a speci<g ref="char:EOLhyphen"/>all consideration of the<note n="a" place="margin">
+                  <hi>See</hi> Helvi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>de</hi> authorita<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Targumim.</note>
+               <hi>Chaldean</hi> Version of <hi>Moses</hi> and the Prophets; and of the<note n="b" place="margin">See <hi>Trosti</hi> his Preface his edition thereof.</note>
+               <hi>Syrian</hi> of the Evangelists and the Apostles, in regard of their antiquity, and also of the <hi>Greeke</hi> called the <hi>Septuagint,</hi> and of the <hi>Vulgar Latine.</hi> But that which we are to insist on, is the <hi>Hebrew, Chaldean,</hi> and <hi>Greeke,</hi> which the Divinely Inspired men wrote, and is in the Church preserved unto this day. From the <hi>Arabicke</hi> Version therefore nothing can be concluded, forasmuch as also in the <hi>Hebrew</hi> word there is no maner of signification of Astrologie, there is no impor<g ref="char:EOLhyphen"/>ting of <hi>Starre</hi> therein.</p>
+            <p>
+               <hi>Obj.</hi> But the next word <hi>an observer of times</hi> must needs bee an Astrologer, because there are of the learned <hi>Iewes,</hi> Which under<g ref="char:EOLhyphen"/>stand it so.</p>
+            <p>
+               <hi>Ans.</hi> The <hi>Rabbins</hi> doe not agree about the Interpretation of sundry
+<pb facs="tcp:206372:17"/>
+               <hi>Hebrew</hi> words: and therefore being at such difference among them<g ref="char:EOLhyphen"/>selves the private opinion of any one of them is of no authority.<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pagnins <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me, <hi>at</hi>
+               </note>
+               <hi>Ge<g ref="char:EOLhyphen"/>mination</hi> of letters in a Word doth lessen the signification, saith <hi>R. Abraham;</hi> but <hi>R. David</hi> saith, it doth increase the same, Certaine Nounes ending in <hi>ai</hi> are by the <hi>Chaldee</hi> rendred plurally;<note n="*" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in <hi>Buxt.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. at pa. 79. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ird or <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th edition. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 18.15. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3.22, 23.</note> but <hi>R. Solomon</hi> would have them to be singular. <hi>D. Forster</hi> in the preface afore his Learned <hi>Hebrew</hi> Dictionary undertaketh to demonstrate great imperfection to be in the <hi>Iewes,</hi> as concerning the interpretation of the sacred <hi>Hebrew.</hi>
+            </p>
+            <p>Moreover, the Learned Hebrician <hi>Buxtorfius</hi> rendreth the word <hi>praestigiis utens, praestigiator,</hi> a jugler. Hee saith: The wise antients derived the word from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> an eye: and that they have written <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> That <hi>Megnonem</hi> turned an observer of times, is hee that holdeth the eyes, that dazles the eyes of the behold<g ref="char:EOLhyphen"/>er. And therefore he hath set the word as a Derivative from the pri<g ref="char:EOLhyphen"/>mitive— <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> an eye.</p>
+            <p>But though the word be read an observer of times; yet pure Astro<g ref="char:EOLhyphen"/>logie is not spoken against thereby. It speaketh of such observing of times which the wicked <hi>Canaanites</hi> used, in whom the ill Spirit ruled and reigned. And that there is some lawfull observing of times, continuall experience teacheth it, in Physitians, Husbandmen, Marriners, <hi>&amp;c.</hi> Who by observing of times about matters in the common course of Na<g ref="char:EOLhyphen"/>ture, doe prevent many inconveniencies and dangers, which they foresee likely to come to passe.</p>
+            <p>Wee will conclude this Answere with Learned <hi>Osianders</hi> delivery on the <hi>Hebrew</hi> word, who writeth: <hi>Hi creduntur esse ii, qui certis incantationibus homines, aut jumenta curaturos se promittunt: item qui horas observant, non Physice, juxta motum Lunae alio<g ref="char:EOLhyphen"/>rumve planetarum: sed superstitiose, nulla evidente ratione. Ta<g ref="char:EOLhyphen"/>les sunt etiam, qui in magna sexta feria, neque equum calciare si<g ref="char:EOLhyphen"/>nunt; neque terram aratro proscindere, quod utrumque infau<g ref="char:EOLhyphen"/>stam falso opinentur.</hi>
+            </p>
+            <p>Obj. Only Christ the great Prophet, and they to whom he gives the divinely inspired gift of Prophecie, must foretell things to come: no art may undertake it; for it is opposite unto Christ.</p>
+            <p>Ans. There is Prophecie concerning Matters Spirituall, and pro<g ref="char:EOLhyphen"/>phecy concerning Matters Naturall. Astrologie teacheth, what is likely to come to passe in things according to the set course of Nature.<note n="*" place="margin">Cor. 12.28.4.11, 12, 13.</note>
+               <pb n="23" facs="tcp:206372:17"/> It is true also, God hath given unto his people his Christ, and he hath ordained Ministers to teach. We have also his most holy<note n="f" place="margin">Colos. 3 16.</note> Word, unto every tittle and jote whereof we are duly to<note n="g" place="margin">John 12.48. 1 Pet. 1.19.</note> attend; and Saint <hi>Paul</hi> signifieth, we should strive to<note n="h" place="margin">Col. 1.25. Mat. 3.15. Rom. 8.4.</note> fulfill the word of God: but yet there are many particular cases in worldly matters, in which what to doe, the Sacred Scripture expresseth not, as in Matters of Physiche, Husban<g ref="char:EOLhyphen"/>dry, the Sea, and such like.</p>
+            <p>
+               <hi>Obj.</hi> It is said:<note n="i" place="margin">Isa. 2.6.</note> Therefore thou hast forsaken thy people, because they are Southsayers like the <hi>Philistims,</hi> &amp;c. Therefore for their Astro<g ref="char:EOLhyphen"/>logie, <hi>&amp;c.</hi> God had forsaken them.</p>
+            <p>
+               <hi>Ans.</hi> If it can be proved, that Soothsaying is any part of true Astro<g ref="char:EOLhyphen"/>logie, then the argument holdeth against it. But whereas it cannot bee so demonstrated; therefore the Objection is void of power.</p>
+            <p>
+               <hi>Obj.</hi> It is said:<note n="k" place="margin">Isa. 44.25.</note> That frustrateth the tokens of the liars, <hi>&amp;c.</hi> That is of Astrologers.</p>
+            <p>
+               <hi>Ans.</hi> If it can be proved, that true Astrologie hath in it any lying tokens, that any lying tokens are grounds in the said Art or Science, then there is some likelihood of truth in the Application: but whereas it cannot be proved, therefore the Inference is not true.</p>
+            <p>
+               <hi>Obj.</hi> It is said:<note n="l" place="margin">Isa. 47.13.</note> Let now the Astrologers, the Starre-gazers, the Monethly Prognosticators stand up, <hi>&amp;c.</hi> Sure enough here Astrologers expresly, and under severall other names and notions also are bitterly inveighed against.</p>
+            <p>
+               <hi>Ans.</hi> Let us see whether the <hi>Hebrew</hi> Word signifieth Astrologers, It is rendred in the Margent, <hi>Viewers of the Heavens.</hi> And others are viewers of the Heavens besides Astrologers, as Astronomers, natu<g ref="char:EOLhyphen"/>rall Philosophers, &amp;c.</p>
+            <p>But Objection is, That it is a viewing of the heavens for to declare some matter to come to passe thereby. And is it a sinne, to view the heavens, for to see what is likely to fall forth, according to the common course of Nature, and in naturall things?</p>
+            <p>
+               <hi>Obj.</hi> But the next speech <hi>Starre-gazers</hi> hath the word Starres therein: and therefore it must needs meane Astrologers.</p>
+            <p>
+               <hi>Ans.</hi> The Hebrew is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which <hi>Shindler</hi> turneth <hi>videntes in stellis,</hi> seers in the Starres. It appeareth, that it is not ab<g ref="char:EOLhyphen"/>solutely forbidden unto any for to looke into the Stars: for then Astro<g ref="char:EOLhyphen"/>nomy it self were unlawfull.</p>
+            <p>The last speech is the <hi>Monethly Prognosticators.</hi> The Margent saith
+<pb n="24" facs="tcp:206372:18"/> the Hebrew is, <hi>that give knowlede concerning the Moneths.</hi> And is it unlawfull to make a Prognostication, to set downe concerning every moneth in the yeere, what is considerable according to the common course of nature? It is manifest, that the holy Prophet <hi>Is<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h</hi> doth not signifie, that to view the heavens, or to looke into the Starres, or to give knowledge concerning the moneths (for so the <hi>Hebrew</hi> Text speaketh) are matters of sinne and wickednes; but hee findeth fault with those which were conversant in these exercises, that they used not them aright. Is it good reason to say, that the profession of Physicke is unlawfull, because some practising therein doe abuse that honourable Science?</p>
+            <p>
+               <hi>Obj.</hi> It is said:<note n="*" place="margin">Jer. 10.2.</note> Learne not the way of the heathen, and be not dismayed at the signes of Heaven, for the heathen are dism<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yed at them. Here Astrologie is forbidden.</p>
+            <p>
+               <hi>Ans.</hi> The scope and drift of the Prophets words is, that the People of <hi>Israel</hi> should not so stand in awe of the signes of heaven, as the hea<g ref="char:EOLhyphen"/>then were. For many of the heathen looked no higher then the Firma<g ref="char:EOLhyphen"/>ment. They considered not, that there is an eternall Almighty God<note n="*" place="margin">Psal. 103.19.</note> ruling over all. The Lord saith by <hi>Amos:</hi>
+               <note n="*" place="margin">Amos 4.7.</note> I have withholden the raine from you, when there were yet three moneths to the harvest: and I caused it to raine upon one Citty, and caused it not to raine upon ano<g ref="char:EOLhyphen"/>ther Citty: one piece was rained upon, and the piece whereupon it rained not, withered.<note n="*" place="margin">Deut. 28.23. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evit. 26.19.</note> God denounced to the <hi>Israelites,</hi> that for their Transgressions He would make the heaven over their head to be brasse, and the earth under them to be iron. He would change Natures course, acco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ding to his holy and righteous pleasure. And whereas hee will do so sometimes, His people are not so to feare the Iudgements signified in the heaven as do the heathen, which know not the God of <hi>Israel,</hi> as if there were no way to escape them; but to remember, what the Lord saith by <hi>Ioel,</hi>
+               <note n="*" place="margin">Joel 3.16. See <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Translati<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Mar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt.</note> that though he doth roare out of <hi>Sion,</hi> and the heavens and the earth shake, He will be the place of repaire or harbour to his people, and the strength of the children of <hi>Israel. Zephaniah</hi> therefore teacheth them their duty, saying:<note n="*" place="margin">Zeph. 3.i, 2, 3</note> Seeke righteousnes, seeke meekenes; it may be yee shall be hid in the day of the Lords anger.</p>
+            <p>Wee conclude this Answere with <hi>Osianders</hi> words on the Text: <hi>Ne discatis impietatem gentium, quoe non modo meteora inusitata, &amp; motus syderum observant, atque ex iis de futuris eventibus pro<g ref="char:EOLhyphen"/>nunciant, verum etiam ita metuunt a constellationibus, ut earum
+<pb facs="tcp:206372:18"/> effectus evitare non posse existiment. Haec enim Gentium est im<g ref="char:EOLhyphen"/>pietas, nec popu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um Dei decet. Non damnatur Astrologia pura, (quae nihil habet de magia) si modo quis Astrologicas praedictiones pro conjecturis, non autem pro vaticiniis certis habeat.</hi>
+            </p>
+            <p>
+               <hi>Obj.</hi> In <hi>Dan 2.</hi> Astrologers are named among Magicians and Sorcerers; therefore their profession is unwarrantable also.</p>
+            <p>
+               <hi>Ans.</hi> The word there rendred Astrologers; in the last Translation, is by <hi>Shindler</hi> otherwise expounded. Hee saith <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> signifieth a Philosopher, an Astronomer and Physitian, which by the Pulse and Ʋrine can judge of the Bodies passions, which dreames doe imitate or follow. <hi>R. Abraham</hi> also doth so expound the word. <hi>Avenarius</hi> observeth, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, wise, answereth to the said <hi>Hebrew</hi> word. Learned<note n="s" place="margin">
+                  <hi>Encycl.</hi> P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 140.</note>
+               <hi>Alstedius</hi> doth in like manner where he writeth: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>sapiens. Hinc</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>nisi malis</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>sapienter cogitavit.</hi>
+            </p>
+            <p>To conclude this answere. If there were any one Hebrew Word, which properly signifieth an Astrologer, why then doe the<note n="t" place="margin">See in <hi>Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>torfs</hi> greater <hi>Chaldaicall</hi> Lexicon.</note>
+               <hi>Rabbins</hi> use the words <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in <hi>Heb:</hi> letters, as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> an Astrologer, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Astrologie?</p>
+            <p>In the holy Bible printed <hi>Anno 1540.</hi> to be read in Churches, and continued therein many yeeres (for ought which can be found) there is not any the least mention of the word Astrologer, Astrologian or Astro<g ref="char:EOLhyphen"/>logie. And it may be observed, that in sundry Translations, the words rendred Astrologers and Astrologians are otherwise interpreted.</p>
+            <p>
+               <hi>Obj.</hi> It is said in <hi>Act. 19.19.</hi> Many of them which used curious Arts, brought their bookes together, and burnt them before all men. And they were bookes of Astrologie. And therefore Astrologie is dam<g ref="char:EOLhyphen"/>nable.</p>
+            <p>
+               <hi>Ans.</hi> If it can be proved, that among the said curious Arts, true A<g ref="char:EOLhyphen"/>strologie was one, then it would follow, that it is unlawfull. But whereas that cannot bee, therefore that Text maketh nothing against the same.</p>
+            <p>The <hi>Syriacke</hi> Text hath it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which <hi>Treme<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l us</hi> rendreth <hi>Magicam artem exercentes.</hi> And <hi>Jun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> in his annotation thereon saith: <hi>Lucas</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>vocat</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>amuleta &amp; periapta quaelibet Magica, quorum Scientiam &amp; artem libris expresserant. Recte itaque Syrus &amp; Arabs interpretes de rebus Ma<g ref="char:EOLhyphen"/>gicis interpretati sunt.</hi>
+            </p>
+            <p>
+               <note n="v" place="margin">In his Tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tise concerni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Astrologie i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his <hi>Encyclop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </note>
+               <hi>Alstedius</hi> that late Learned Writer delivereth thus concerning Astrologie: <hi>qui illam superstitionis damnant, usum per abusum
+<pb facs="tcp:206372:19"/> tolli putare videntur, admodum sophistice. Utilitas autem ipsius inde manifesta est; quod eclipses, tempestates, &amp; alia infinita per hanc scientiam p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aedicantur. Hinc Astronomia traditur propter Astrologiam, &amp; ad eam refertur tanquam ad finem &amp;</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Cut enim docemus &amp; discimus sphaeram &amp; theorias planetarum? Annon, ut vires stellarum cognoscamus, &amp; res futuras, quatenus per nostram imbecillitatem fieri potest, praedicamus?</hi> Whereof the Summe is, that though the profession of Astrologie hath bin abused by some, yet the lawfull use of it is not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herefore to bee taken away. For what is there, how good soever, that hath not bin abused? Many are the profits of it about naturall matters pertaining unto this life, and therefore it is to bee duely respected.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206372:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
